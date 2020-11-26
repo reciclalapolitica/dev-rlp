@@ -22,7 +22,7 @@ Para ello presentamos el siguiente decálogo del constituyente verde, que repres
 
 ### 1.	Derecho a la justicia ambiental.
 
-![1](../../images/about/d1.jpg)
+![decalogo](../../images/about/d1.jpg)
 
 Defender en la convención constitucional principios que recojan las demandas sociales y ambientales:
 
@@ -32,7 +32,7 @@ Defender en la convención constitucional principios que recojan las demandas so
 
 ### 2.	Derecho a equidad intra e intergeneracional.
 
-![2](../../images/about/d2.jpg)
+![decalogo](../../images/about/d2.jpg)
 
 Principio de justicia o solidaridad intra e intergeneracional, para la distribución equitativa y mantención de los ecosistemas y bienes comunes, recogiendo el igual derecho de todos los habitantes y de las generaciones futuras a disfrutar de la naturaleza, del planeta, y de las oportunidades de desarrollo que brinda. Un modelo de desarrollo sostenible, que incluya una economía distributiva y regenerativa, enmarcada en los límites de la biosfera, centrado en el bienestar y la prosperidad de las personas.
 
@@ -40,31 +40,31 @@ Una constitución que nos permita volcarnos del extractivismo imperante que caus
 
 ### 3.	Derecho a vivir en un ambiente sano y ecológicamente equilibrado
 
-![3](../../images/about/d3.jpg)
+![decalogo](../../images/about/d3.jpg)
 
 Promover en la convención constitucional este  Derecho Fundamental  que incluye el aire limpio, amparado por mecanismos efectivos y oportunos  tales como  un recurso constitucional, y medidas de protección  y que proteja a los defensores de derechos humanos en asuntos ambientales.
 
 ### 4.	Democracia Ambiental.
 
-![4](../../images/about/d4.jpg)
+![decalogo](../../images/about/d4.jpg)
 
 Garantizar los derechos procedimentales de acceso a la información, a la participación pública y a la justicia en asuntos ambientales, con un enfoque prioritario en las personas y grupos en situación de vulnerabilidad y la protección de los defensores de derechos humanos en asuntos ambientales, en línea con los estándares del Acuerdo de Escazú, fortaleciendo la toma de decisiones .
 
 ### 5.	Establecer un estado plurinacional.
 
-![5](../../images/about/d5.jpg)
+![decalogo](../../images/about/d5.jpg)
 
 Promover el Debido respeto a la cosmovisión de nuestros pueblos originarios, en un estado plurinacional, que reconozca nuestro patrimonio cultural histórico.
 
 ### 6.	Luchar contra el cambio climático.
 
-![6](../../images/about/d6.jpg)
+![decalogo](../../images/about/d6.jpg)
 
 Incorporación del Cambio Climático y la necesidad de un clima más seguro considerando las implicaciones éticas, políticas, sociales y económicas, promoviendo la incorporación de deberes de adaptación, mitigación, y transición justa frente al cambio climático, de brindar a los ciudadanos los esfuerzos de un clima más seguro, y que tome los resguardos que permitan perpetuar nuestros logros como país, a través de una prevención de desastres y una adaptación al cambio climático.
 
 ### 7.	Una sociedad diversa e inclusiva.
 
-![7](../../images/about/d7.jpg)
+![decalogo](../../images/about/d7.jpg)
 
 Promover la discusión de un modelo de sociedad sostenible e inclusiva, con enfoque de género, que permita edificar una “sociedad de cuidados”, una universalización del cuidado para que sea compartido de manera igualitaria entre mujeres y hombres, y un pacto social que supere una sociedad patriarcal y se haga cargo para las desigualdades de género, y que permita una discusión abierta y democrática de los derechos sexuales y reproductivos de la mujer.
 
@@ -72,13 +72,13 @@ Un estado que reconozca la diversidad de orientación sexual, y que brinde a sus
 
 ### 8.	El deber del estado de proteger la biodiversidad.
 
-![8](../../images/about/d8.jpg)
+![decalogo](../../images/about/d8.jpg)
 
 Debatir la opción de situar a la naturaleza, bosques, ríos. ecosistemas y seres sintientes como sujetos de derechos o de particular protección. En concordancia, promover el establecimiento de principios constitucionales que mandaten el uso racional y sostenible de los recursos o elementos naturales que tiene el país y en beneficio de las grandes mayorías.
 
 ### 9.	Descentralización política y tributaria.
 
-![9](../../images/about/d9.jpg)
+![decalogo](../../images/about/d9.jpg)
 
 Incorporar en la discusión constitucional el derecho a la ciudad, como espacio de desarrollo de las vidas de las personas, libre de contaminación, dotado de un transporte público justo y limpio, con vías adecuadas y seguras para los peatones y ciclistas, y donde se reconoce la gestión comunitaria de los espacios y bienes comunes.
 
@@ -86,7 +86,7 @@ Un derecho a la ciudad, que contemple una descentralización efectiva en lo admi
 
 ### 10.	Derecho de acceso al agua para consumo humano y para sustentar ecosistemas.
 
-![10](../../images/about/d10.jpg)
+![decalogo](../../images/about/d10.jpg)
 
 Derecho humano al acceso y saneamiento considerando al Agua como un bien común, . Priorizar constitucionalmente el consumo humano y el rol como soporte de los ecosistemas, junto con reconocer formas colectivas de gestión y propiedad. Una constitución que proteja	los glaciares y su rol en el ciclo hídrico.
 
