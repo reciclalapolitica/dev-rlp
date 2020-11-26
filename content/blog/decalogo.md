@@ -1,6 +1,6 @@
 ---
-title: Decálogo del constituyente verde
-date: 2020-11-25T16:30:32+00:00
+title: Decálogo del Constituyente Verde
+date: 2020-11-24T16:30:32+00:00
 description: decálogo recicla la política constitución verde
 bgImage: images/bg/bg-3.jpg
 image: images/gallery/1.jpg
