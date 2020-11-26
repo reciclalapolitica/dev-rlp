@@ -1,0 +1,210 @@
+########################### about ###############################
+about:
+  enable : true
+  image : "images/about/img-3.jpg"
+  title : "Recicla la Política"
+  leadContent : "Debemos contar con una Constitución Ecológica para Chile."
+  content : "Se inicia un proceso constituyente que convocará a las y los chilenos para dotarse de un nuevo
+   pacto político y social, que permita construir una sociedad más justa, inclusiva y sustentable. Este proceso,
+    el primero en nuestra historia, nace en una crisis climática, ambiental, sanitaria y social. 
+    Tenemos la oportunidad de hacer una Constitución que favorezca una transición ecológica necesaria
+     para alcanzar un desarrollo sustentable y pleno de sus ciudadanos."
+
+
+############################# partners ##########################
+partners:
+  enable : false
+  title : "Nuestros colaboradores"
+  content : "Assumenda reiciendis delectus dolore incidunt molestias omnis quo quaerat voluptate, eligendi perspiciatis
+            ipsa laudantium nesciunt officia, odit nemo quidem hic itaque. Fugiat."
+  partnersLogo:
+    # partner logo loop
+    - logo : "images/clients/client1.png"
+      link : "#"
+      
+    # partner logo loop
+    - logo : "images/clients/client2.png"
+      link : "#"
+      
+    # partner logo loop
+    - logo : "images/clients/client5.png"
+      link : "#"
+      
+    # partner logo loop
+    - logo : "images/clients/client4.png"
+      link : "#"
+
+
+########################## history ##############################
+history:
+  enable : false
+  historyItem:
+    # history item loop
+    - title : "Fundado en 2020"
+      icon : "ti-home"
+      subtitle : "Work Since 1987 with Pride!!"
+      content : "Cum voluptas tenetur, voluptatibus mollitia odio sint, alias debitis quasi ut commodo consequat."
+      
+    # history item loop
+    - title : "Our History"
+      icon : "ti-agenda"
+      subtitle : "Mission to make smile the world"
+      content : "Cum voluptas tenetur, voluptatibus mollitia odio sint, alias debitis quasi ut commodo consequat."
+      
+    # history item loop
+    - title : "Large Community"
+      icon : "ti-hand-open"
+      subtitle : "Join our community & help others"
+      content : "Cum voluptas tenetur, voluptatibus mollitia odio sint, alias debitis quasi ut commodo consequat."
+
+############################### Team ##############################
+team:
+  enable : true
+  subtitle : "Equipo"
+  title : "Nosotros queremos reciclar la política"
+  button:
+    enable : true
+    label : "Escríbenos"
+    link : "contact"
+  teamMember:
+    # team member loop
+    - name : "Marcelo Mena"
+      designation : "Ex Subsecretario Ministro de Medio Ambiente 2014-2018. Director del Centro de Acción Climática de la PUCV."
+      image : "images/team/marcelo-mena.jpg"
+      social:
+          
+        - name : "twitter"
+          icon : "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+          link : "https://twitter.com/marcelomena"
+          
+        - name : "linkedin"
+          icon : "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/marcelo-mena-87a02914/"
+          
+    # team member loop
+    - name : "Jorge Canals"
+      designation : "Abogado. Ex Seremi y Subsecretario de Medio Ambiente 2015-2018."
+      image : "images/team/jorge-canals.jpg"
+      social:
+          
+        - name : "twitter"
+          icon : "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+          link : "https://twitter.com/jorge_canals"
+          
+        - name : "linkedin"
+          icon : "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/jorge-canals-de-la-puente-2091038a/"
+          
+    # team member loop
+    - name : "Alejandra Figueroa"
+      designation : "Ex Jefe de Biodiversidad y Ecosistemas Acuáticos, Ministerio de Medio Ambiente."
+      image : "images/team/alejandra-figueroa.jpg"
+      social:
+          
+        - name : "twitter"
+          icon : "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+          link : "https://twitter.com/alefigueroabio"
+          
+        - name : "linkedin"
+          icon : "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/alejandra-figueroa-fern%C3%A1ndez-46842592/"
+          
+    # team member loop
+    - name : "Constance Nalegach"
+      designation : "Abogada. Ex Jefe de Oficina de asuntos internacionales Ministerio de Medio Ambiente. Impulsora Acuerdo de Escazú."
+      image : "images/team/constance-nalegach.jpg"
+      social:
+          
+        - name : "twitter"
+          icon : "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+          link : "https://twitter.com/connienalegach"
+          
+        - name : "linkedin"
+          icon : "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/constance-nalegach-75597411/"
+
+    # team member loop
+    - name : "Verónica Delgado"
+      designation : "Abogada. Profesora de Derecho Constitucional, Universidad de Concepción."
+      image : "images/team/veronica-delgado.jpg"
+      social:
+          
+        - name : "twitter"
+          icon : "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+          link : "https://twitter.com/verodelgadosch"
+
+    # team member loop
+    - name : "Paloma Infante"
+      designation : "Abogada. Ex Jefa de División Jurídica, Ministerio de Medio Ambiente."
+      image : "images/team/paloma-infante.jpg"
+      social:
+          
+        - name : "twitter"
+          icon : "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+          link : "https://twitter.com/palomainfante"
+          
+        - name : "linkedin"
+          icon : "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/paloma-infante-03b8b028/"
+
+    # team member loop
+    - name : "Macarena Maturana"
+      designation : "Ingeniero Ambiental, Ex coordinadora Consejo de Ministros."
+      image : "images/team/macarena-maturana.jpg"
+      social:
+                   
+        - name : "linkedin"
+          icon : "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/macarena-maturana-rogers-28b67b40/"
+
+    # team member loop
+    - name : "Alex Godoy"
+      designation : "Biólogo. Director Centro de Investigación en Sustentabilidad (CiSGER)"
+      image : "images/team/alex-godoy.jpg"
+      social:
+                   
+        - name : "twitter"
+          icon : "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+          link : "https://twitter.com/AlexGodoyF_"
+          
+        - name : "linkedin"
+          icon : "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/alexgodoyf/"
+
+    # team member loop
+    - name : "Paulina Astroza"
+      designation : "Descripción"
+      image : "images/team/paulina-astroza.jpg"
+      social:
+                   
+        - name : "twitter"
+          icon : "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+          link : "https://twitter.com/paulinaastrozas"
+          
+        - name : "linkedin"
+          icon : "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/paulina-astroza-su%C3%A1rez-53953b18/"
+
+   # team member loop
+    - name : "Nombre Apellido"
+      designation : "Descripción"
+      image : "images/team/.jpg"
+      social:
+                   
+        - name : "twitter"
+          icon : "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+          link : "https://twitter.com/AlexGodoyF_"
+          
+        - name : "linkedin"
+          icon : "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/alexgodoyf/"
+
+################### call to action ###########################
+cta:
+  enable : true
+  # cta content comes from homepage.yml
+
+############################## Gallery ######################
+gallery:
+  enable : true
+  # gallery items comes from homepage.yml

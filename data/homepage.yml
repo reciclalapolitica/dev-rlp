@@ -1,0 +1,176 @@
+################################ Banner ##############################
+banner:
+  enable : true
+  subtitle : "El acuerdo para una nueva constitución verde."
+  title : "Recicla la política"
+  content : "Un pacto verde para enfrentar la crisis socioecológica, climática y sanitaria."
+  button:
+    enable : true
+    label : "¿De qué se trata?"
+    link : "#"
+
+############################# Intro ##################################
+intro:
+  enable: true
+  subtitle : "¿Qué es lo que hacemos?"
+  title : "Decálogo para enfrentar la crisis socioecológica climática y sanitaria"
+  content : "El mundo está enfrentando desafíos en una escala sin precedentes, 
+            tanto por su extensión global como por su manifestación simultánea. 
+            La magnitud e interrelación de los fenómenos climáticos, sanitarios y socioculturales 
+            exigen pasar de respuestas unilaterales y acotadas en el tiempo a respuestas estratégicas,
+            integrales y con horizontes de mediano y largo plazo."
+  introItem:
+    # intro item loop
+    - title : "Justicia ambiental"  
+      image : "images/about/d1.jpg"
+      content : ""
+      
+    # intro item loop
+    - title : "Equidad intra e intergeneracional"
+      image : "images/about/d2.jpg"
+      content : ""
+      
+    # intro item loop
+    - title : "Vivir en un ambiente sano y ecológicamente equilibrado"
+      image : "images/about/d3.jpg"
+      content : ""
+      
+    # intro item loop
+    - title : "Democracia Ambiental"
+      image : "images/about/d4.jpg"
+      content : ""
+
+          # intro item loop
+    - title : "Establecer un estado plurinacional"  
+      image : "images/about/d5.jpg"
+      content : ""
+
+          # intro item loop
+    - title : "Luchar contra el cambio climático"  
+      image : "images/about/d6.jpg"
+      content : ""
+
+          # intro item loop
+    - title : "Una sociedad diversa e inclusiva"  
+      image : "images/about/d7.jpg"
+      content : ""
+
+          # intro item loop
+    - title : "El deber del estado de proteger la biodiversidad"  
+      image : "images/about/d8.jpg"
+      content : ""
+
+          # intro item loop
+    - title : "Descentralización política y tributaria"  
+      image : "images/about/d9.jpg"
+      content : ""
+
+          # intro item loop
+    - title : "Acceso al agua para consumo humano y para sustentar ecosistemas"  
+      image : "images/about/d10.jpg"
+      content : ""
+
+################################# Video ###############################
+video:
+  enable : true
+  title : "Un desarrollo sustentable centrado <br> en el equilibrio sistémico socioecologico"
+  videoThumb : "images/bg/bg-3.jpg"
+  video: "https://www.youtube.com/watch?v=VfWSrG7vITM"
+  
+################################# funfacts ###############################
+funfacts:
+  enable : true
+  funItem:
+    # funfacts item loop
+    - title : "grados debe ser nuestro giro."
+      count: "180"
+      
+    # funfacts item loop
+    - title : "% mamíferos terrestres son ganado y humanos."
+      count: "96"
+      
+    # funfacts item loop
+    - title : "% mamíferos son salvajes."
+      count: "4"
+      
+    # funfacts item loop
+    - title : "año de la carbono neutralidad."
+      count: "2050"
+
+############################ gallery ###################################
+gallery:
+  enable : true
+  subtitle : "Galería de Fotos  "
+  title : "Ha llegado el momento de poner en marcha un Pacto Verde"
+  galleryItems:
+    - image : "images/gallery/1.jpg"
+    - image : "images/gallery/2.jpg"
+    - image : "images/gallery/3.jpg"
+    - image : "images/gallery/4.jpg"
+    - image : "images/gallery/5.jpg"
+    - image : "images/gallery/6.jpg"
+    - image : "images/gallery/7.jpg"
+    - image : "images/gallery/8.jpg"
+    - image : "images/gallery/9.jpg"
+
+########################## latest causes ################################
+causes:
+  enable : true
+  subtitle : "Descargas"
+  title : "Contenido para el constituyente verde"
+  content : "Se parte del sello verde. Descarga los contenidos de recicla la política."
+  # causes item comes from "content/event" folder
+
+######################## call to action ###################################
+cta:
+  enable : true
+  title : "¡Revisa el decálogo del constituyente verde!"
+  button:
+    enable : true
+    label : "Decálogo"
+    link : "./blog/decalogo/"
+
+############################# Latest Blog ###############################
+blog:
+  enable : false
+  subtitle : ""
+  title : ""
+  content : ""
+  # blog item comes from "content/blog" folder
+
+################################# Volunteer ##############################
+volunteer:
+  enable : true
+  image : "images/bg/bg-3.jpg"
+  title : "Ha llegado el momento de poner en marcha un Pacto Verde"
+  content : "Ciudadanos que se comprometen a una nueva constitución verde. Es la oportunidad para sanar a nuestra gente, nuestra economía y al planeta, desacoplando el crecimiento del consumo de materiales y focalizándolo en la salud y bienestar de las personas y del medio ambiente. "
+  partners:
+    enable : false
+    title : "Instituciones colaboradoras"
+    partner:
+      # partner loop
+      - logo : "images/clients/client1.png"
+        link : "#"
+        
+      # partner loop
+      - logo : "images/clients/client2.png"
+        link : "#"
+        
+      # partner loop
+      - logo : "images/clients/client4.png"
+        link : "#"
+        
+      # partner loop
+      - logo : "images/clients/client5.png"
+        link : "#"
+        
+      # partner loop
+      - logo : "images/clients/client6.png"
+        link : "#"
+  
+  # form
+  form:
+    subtitle : "Ponte en contacto"
+    title : "Recibe más información y entérate de las últimas noticias"
+    formAction : "https://formspree.io/f/meqpgken" # form works with formspree.io
+    
