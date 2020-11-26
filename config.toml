@@ -84,12 +84,12 @@ paginate = 6
 
   [[menu.footer]]
   name = "Pacto Verde"
-  URL = "#"
+  URL = "./blog/pacto-verde/"
   weight = 2
   
   [[menu.footer]]
   name = "Decálogo"
-  URL = "#"
+  URL = "./blog/decalogo/"
   weight = 3
   
   [[menu.footer]]
