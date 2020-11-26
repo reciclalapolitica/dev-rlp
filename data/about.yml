@@ -172,6 +172,19 @@ team:
           link : "https://www.linkedin.com/in/alexgodoyf/"
 
     # team member loop
+    - name : "Ezio Costa"
+      designation : "Abogado, Magíster en Regulacion, Doctor en Derecho. Director Ejecutivo de FIMA."
+      image : "images/team/ezio-costa.jpg"
+      social:
+                   
+        - name : "twitter"
+          icon : "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+          link : "https://twitter.com/eziocosta"
+          
+        - name : "linkedin"
+          icon : "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/eziocostacordella/"
+    # team member loop
     - name : "Paulina Astroza"
       designation : "Abogada. Dra. Ciencias Políticas y Sociales. Profesora de Derecho Internacional y RRII."
       image : "images/team/paulina-astroza.jpg"
@@ -184,7 +197,19 @@ team:
         - name : "linkedin"
           icon : "ti-linkedin" # themify icon pack https://themify.me/themify-icons
           link : "https://www.linkedin.com/in/paulina-astroza-su%C3%A1rez-53953b18/"
-
+    # team member loop
+    - name : "Max Bello"
+      designation : "Médico Veterinario. Master en Gestión Ambiental. Champion de los Océanos, COP26."
+      image : "images/team/max-bello.jpg"
+      social:
+                   
+        - name : "twitter"
+          icon : "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+          link : "https://twitter.com/max_bello_m"
+          
+        - name : "linkedin"
+          icon : "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/maximiliano-bello-0b591846/"
 
 ################### call to action ###########################
 cta:
