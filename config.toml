@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://reciclalapolitica.cl/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Recicla la Política"
 theme = "reciclalapolitica"
