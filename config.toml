@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://reciclalapolitica.github.io/"
+baseURL = "https://compassionate-nightingale-b56b15.netlify.app/"
 languageCode = "en-us"
 title = "Recicla la Política"
 theme = "reciclalapolitica"
