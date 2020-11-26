@@ -5,18 +5,8 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: content/search
-  label: Search
-  create: all
-  match: "**/*"
-- type: directory
   path: content/event
   label: Event
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/contact
-  label: Contact
   create: all
   match: "**/*"
 - type: directory
@@ -27,11 +17,6 @@ sections:
 - type: directory
   path: content/blog
   label: Blog
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/about
-  label: About
   create: all
   match: "**/*"
 upload_dir: static/uploads
