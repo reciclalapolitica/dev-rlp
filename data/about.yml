@@ -173,7 +173,7 @@ team:
 
     # team member loop
     - name : "Paulina Astroza"
-      designation : "Descripción"
+      designation : "Abogada. Dra. Ciencias Políticas y Sociales. Profesora de Derecho Internacional y RRII."
       image : "images/team/paulina-astroza.jpg"
       social:
                    
@@ -185,19 +185,6 @@ team:
           icon : "ti-linkedin" # themify icon pack https://themify.me/themify-icons
           link : "https://www.linkedin.com/in/paulina-astroza-su%C3%A1rez-53953b18/"
 
-   # team member loop
-    - name : "Nombre Apellido"
-      designation : "Descripción"
-      image : "images/team/.jpg"
-      social:
-                   
-        - name : "twitter"
-          icon : "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
-          link : "https://twitter.com/AlexGodoyF_"
-          
-        - name : "linkedin"
-          icon : "ti-linkedin" # themify icon pack https://themify.me/themify-icons
-          link : "https://www.linkedin.com/in/alexgodoyf/"
 
 ################### call to action ###########################
 cta:

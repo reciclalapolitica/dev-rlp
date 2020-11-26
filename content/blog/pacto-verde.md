@@ -2,7 +2,7 @@
 title: "Pacto verde"
 date: 2019-09-25T11:28:32+06:00
 draft: false
-description : "un pacto verde para enfrentar la crisis socioecológica climática y sanitaria"
+description : "un pacto verde para enfrentar la crisis socioecológica climática y sanitaria."
 bgImage: "images/bg/bg-3.jpg"
 image: "images/gallery/2.jpg"
 categories: 
@@ -12,7 +12,7 @@ tags:
 type: "post"
 ---
 
-## Un pacto verde para enfrentar la crisis socioecológica climática y sanitaria
+## Un pacto verde para enfrentar la crisis socioecológica climática y sanitaria.
 
 
 ### I. Contexto
