@@ -26,5 +26,3 @@ fields:
 - type: text
   name: type
   label: type
-pages:
-- content/blog/nuevo-post-al-blog.md
