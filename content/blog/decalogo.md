@@ -95,5 +95,3 @@ Derecho humano al acceso y saneamiento considerando al Agua como un bien común,
 Quienes adhieran a este decálogo, apoyan un pacto constituyente verde. La ciudadanía podrá entonces votar por quienes se comprometen a esta nueva constitución verde, la que necesitamos urgente para hacer frente a las crisis sociales y ambientales del siglo 21.
 
 #### **_Ciudadanos que se comprometen a una nueva constitución verde._**
-
-Hola amigos 
