@@ -171,19 +171,7 @@ team:
           icon : "ti-linkedin" # themify icon pack https://themify.me/themify-icons
           link : "https://www.linkedin.com/in/alexgodoyf/"
 
-    # team member loop
-    - name : "Ezio Costa"
-      designation : "Abogado, Magíster en Regulacion, Doctor en Derecho. Director Ejecutivo de FIMA."
-      image : "images/team/ezio-costa.jpg"
-      social:
-                   
-        - name : "twitter"
-          icon : "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
-          link : "https://twitter.com/eziocosta"
-          
-        - name : "linkedin"
-          icon : "ti-linkedin" # themify icon pack https://themify.me/themify-icons
-          link : "https://www.linkedin.com/in/eziocostacordella/"
+
     # team member loop
     - name : "Paulina Astroza"
       designation : "Abogada. Dra. Ciencias Políticas y Sociales. Profesora de Derecho Internacional y RRII."
