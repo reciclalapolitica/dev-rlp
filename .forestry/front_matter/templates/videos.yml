@@ -23,9 +23,11 @@ fields:
 - type: text
   name: location
   label: location
+  description: Plataforma
 - type: text
   name: organizer
   label: organizer
+  description: Link al video
 - type: text
   name: type
   label: type
