@@ -9,17 +9,16 @@
       {{ range $paginator.Pages }}
       <div class="col-lg-4 col-md-6">
         <div class="card event-item mb-4">
-          <img src="{{ .Params.Image | absURL }}" class="card-img-top" alt="{{ .Title | markdownify }}">
+          <!-- <img src="{{ .Params.Image | absURL }}" class="card-img-top" alt="{{ .Title | markdownify }}"> -->
           <div class="card-body">
-            <h3 class="card-title"><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h3>
+            <h3 class="card-title"><a href="{{ .Params.Organizer }}">{{ .Title | markdownify }}</a></h3>
             <p class="card-text">{{ .Summary }}</p>
           </div>
           <ul class="list-group list-group-flush">
-            <li class="list-group-item"><strong>Date : </strong> {{ .Params.EventDate }}</li>
-            <li class="list-group-item"><strong>Location : </strong> {{ .Params.Location | markdownify }}</li>
-            <li class="list-group-item"><strong>Organizer : </strong> {{ .Params.Organizer | markdownify }}</li>
+            <!-- <li class="list-group-item"><strong>Fecha: </strong> {{ .Params.EventDate }}</li> -->
+            <li class="list-group-item"><strong>Plataforma: </strong> {{ .Params.Location | markdownify }}</li>
           </ul>
-          <a href="{{ .Permalink }}" class="btn btn-main-2">Learn More</a>
+          <a href="{{ .Params.Organizer }}" target="_blank" class="btn btn-main-2">Ver video</a>
         </div>
       </div>
       {{ end }}

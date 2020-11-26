@@ -53,6 +53,11 @@
   </url>
   
   <url>
+    <loc>/event/event-4/</loc>
+    <lastmod>2019-09-25T11:28:32+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/causes/cause-2/</loc>
     <lastmod>2019-09-25T11:28:32+06:00</lastmod>
   </url>
@@ -63,12 +68,12 @@
   </url>
   
   <url>
-    <loc>/event/event-2/</loc>
+    <loc>/event/event-1/</loc>
     <lastmod>2019-09-25T11:28:32+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/event/event-5/</loc>
+    <loc>/event/event-2/</loc>
     <lastmod>2019-09-25T11:28:32+06:00</lastmod>
   </url>
   
@@ -98,6 +103,11 @@
   </url>
   
   <url>
+    <loc>/event/event-5/</loc>
+    <lastmod>2019-09-25T11:28:32+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/search/</loc>
     <lastmod>2019-09-25T11:28:32+06:00</lastmod>
   </url>
@@ -113,22 +123,12 @@
   </url>
   
   <url>
-    <loc>/event/event-6/</loc>
-    <lastmod>2019-09-25T11:28:32+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/event/event-1/</loc>
-    <lastmod>2019-09-25T11:28:32+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/event/event-4/</loc>
-    <lastmod>2019-09-25T11:28:32+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/event/</loc>
+    <lastmod>2019-09-25T11:28:32+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/event/event-6/</loc>
     <lastmod>2019-09-25T11:28:32+06:00</lastmod>
   </url>
   
