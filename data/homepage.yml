@@ -7,7 +7,7 @@ banner:
   button:
     enable : true
     label : "¿De qué se trata?"
-    link : "#"
+    link : "./blog/decalogo/"
 
 ############################# Intro ##################################
 intro:
