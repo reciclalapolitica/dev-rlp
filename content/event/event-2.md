@@ -6,7 +6,7 @@ description : "La ciudad sustentable y la descentralización"
 bgImage: "images/bg/bg-3.jpg"
 image: "images/blog/ciudad-sustentable.jpg"
 eventDate: "16th september 2019"
-location: "Facebook Live"
+location: "Zoom - Facebook Live"
 organizer: "https://www.facebook.com/FUNDACIONCHILE21/videos/818227612270196"
 type: "event"
 ---

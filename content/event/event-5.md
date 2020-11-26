@@ -6,7 +6,7 @@ description : "Recicla la política para una constitución verde"
 bgImage: "images/bg/bg-3.jpg"
 image: "images/blog/constitucion-verde.jpg"
 eventDate: "16th september 2019"
-location: "Facebook Live"
+location: "Zoom - Facebook Live"
 organizer: "https://www.facebook.com/100160306723885/videos/1223934297968795"
 type: "event"
 ---
