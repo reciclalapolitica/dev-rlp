@@ -198,6 +198,42 @@ team:
         - name : "linkedin"
           icon : "ti-linkedin" # themify icon pack https://themify.me/themify-icons
           link : "https://www.linkedin.com/in/maximiliano-bello-0b591846/"
+    # team member loop
+    - name : "Ximena Insunza"
+      designation : "Abogada. Profesora e Investigadora. Ministra suplente Segundo Tribunal Ambiental."
+      image : "images/team/ximena-insunza.jpg"
+      social:
+
+        - name : "linkedin"
+          icon : "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/ximena-insunza-79172030/"
+    # team member loop
+    - name : "Ana Lya Uriarte"
+      designation : "Abogada. Profesora. Directora de la Fundación Horizonte Ciudadano. Jefe de Gabinete Presidenta M. Bachelet."
+      image : "images/team/ana-uriarte.jpg"
+      social:
+                   
+        - name : "twitter"
+          icon : "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+          link : "https://twitter.com/AnaLyaUriarteR"
+          
+        - name : "linkedin"
+          icon : "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/ana-lya-uriarte-21b2a252/"
+    # team member loop
+    - name : "Valentina Durán"
+      designation : "Abogada. Profesora. Directora Centro de Derecho Ambiental U. Chile. Directora Espacio Público."
+      image : "images/team/valentina-duran.jpg"
+      social:
+                   
+        - name : "twitter"
+          icon : "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+          link : "https://twitter.com/valeduran"
+          
+        - name : "linkedin"
+          icon : "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/valeduran/"
+
 
 ################### call to action ###########################
 cta:
