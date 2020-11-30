@@ -235,37 +235,36 @@ team:
           
         - name : "twitter"
           icon : "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
-          link : ""
+          link : "https://twitter.com/fundacionbasura"
           
         - name : "linkedin"
           icon : "ti-linkedin" # themify icon pack https://themify.me/themify-icons
-          link : ""
+          link : "https://www.linkedin.com/in/macarena-alejandra-guajardo-mavroski-0bb15792/"
              # team member loop
-    - name : "Pedro Cisternas"
+    - name : "Pedro Cisterna"
       designation : "Abogado. Máster en Derecho Ambiental y Derecho Climático. Candidato a PhD en Derecho."
-      image : "images/team/pedro-cisternas.jpg"
+      image : "images/team/pedro-cisterna.jpg"
       social:
           
         - name : "twitter"
           icon : "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
-          link : ""
+          link : "https://twitter.com/pedrocig"
           
         - name : "linkedin"
           icon : "ti-linkedin" # themify icon pack https://themify.me/themify-icons
-          link : ""
+          link : "https://www.linkedin.com/in/pedro-cisterna-gaete-0b674978/"
              # team member loop
     - name : "Adriana Perez"
       designation : "Abogada. PhD en Derecho Ambiental y Público."
       image : "images/team/adriana-perez.jpg"
       social:
-          
-        - name : "twitter"
-          icon : "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
-          link : ""
+
           
         - name : "linkedin"
           icon : "ti-linkedin" # themify icon pack https://themify.me/themify-icons
-          link : "https://www.linkedin.com/in/adriana-perez-niklitschek-6488ab2/"
+          link : "https://www.linkedin.com/in/adriana-perez-niklitschek-6488ab2/"  
+                 
+
 
 ################### call to action ###########################
 cta:

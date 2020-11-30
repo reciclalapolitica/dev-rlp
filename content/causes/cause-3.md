@@ -5,7 +5,7 @@ draft: false
 description : "Sello Constituyente Verde"
 bgImage: "images/bg/bg-3.jpg"
 image: "images/about/sello-verde.jpg"
-goal: "$1"
+goal: "../images/about/sello-verde.rar"
 raised: "$1"
 type: "causes"
 ---

@@ -5,7 +5,7 @@ draft: false
 description : "Decálogo Constituyente Verde"
 bgImage: "images/bg/bg-3.jpg"
 image: "images/about/decalogo.jpg"
-goal: "$1"
+goal: "../images/about/decalogo.rar"
 raised: "$1"
 type: "causes"
 ---

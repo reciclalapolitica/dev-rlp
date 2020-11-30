@@ -5,7 +5,7 @@ draft: false
 description : "Logo Recicla la Política"
 bgImage: "images/bg/bg-3.jpg"
 image: "images/about/logo-rlp.jpg"
-goal: "$1"
+goal: "../images/about/logo-rlp.rar"
 raised: "$1"
 type: "causes"
 ---
