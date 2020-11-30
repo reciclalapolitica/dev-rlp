@@ -227,9 +227,45 @@ team:
         - name : "linkedin"
           icon : "ti-linkedin" # themify icon pack https://themify.me/themify-icons
           link : "https://www.linkedin.com/in/paloma-infante-03b8b028/"
-
-
-
+             # team member loop
+    - name : "Macarena Guajardo"
+      designation : "Arquitecta. Fundadora y Directora ejecutiva de Fundación Basura."
+      image : "images/team/macarena-guajardo.jpg"
+      social:
+          
+        - name : "twitter"
+          icon : "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+          link : ""
+          
+        - name : "linkedin"
+          icon : "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+          link : ""
+             # team member loop
+    - name : "Pedro Cisternas"
+      designation : "Abogado. Máster en Derecho Ambiental y Derecho Climático. Candidato a PhD en Derecho."
+      image : "images/team/pedro-cisternas.jpg"
+      social:
+          
+        - name : "twitter"
+          icon : "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+          link : ""
+          
+        - name : "linkedin"
+          icon : "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+          link : ""
+             # team member loop
+    - name : "Adriana Perez"
+      designation : "Abogada. PhD en Derecho Ambiental y Público."
+      image : "images/team/adriana-perez.jpg"
+      social:
+          
+        - name : "twitter"
+          icon : "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+          link : ""
+          
+        - name : "linkedin"
+          icon : "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/adriana-perez-niklitschek-6488ab2/"
 
 ################### call to action ###########################
 cta:
