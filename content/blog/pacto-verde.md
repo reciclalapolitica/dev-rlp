@@ -1,6 +1,6 @@
 ---
 title: "Pacto verde"
-date: 2019-09-25T11:28:32+06:00
+date: 2020-11-30T00:00:01+00:00
 draft: false
 description : "un pacto verde para enfrentar la crisis socioecológica climática y sanitaria."
 bgImage: "images/bg/bg-3.jpg"
