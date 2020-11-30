@@ -22,52 +22,52 @@ intro:
   introItem:
     # intro item loop
     - title : "Justicia ambiental"  
-      image : "images/about/d1.jpg"
+      image : "images/about/d1.png"
       content : ""
       
     # intro item loop
     - title : "Equidad intra e intergeneracional"
-      image : "images/about/d2.jpg"
+      image : "images/about/d2.png"
       content : ""
       
     # intro item loop
     - title : "Vivir en un ambiente sano y ecológicamente equilibrado"
-      image : "images/about/d3.jpg"
+      image : "images/about/d3.png"
       content : ""
       
     # intro item loop
     - title : "Democracia Ambiental"
-      image : "images/about/d4.jpg"
+      image : "images/about/d4.png"
       content : ""
 
           # intro item loop
     - title : "Establecer un estado plurinacional"  
-      image : "images/about/d5.jpg"
+      image : "images/about/d5.png"
       content : ""
 
           # intro item loop
     - title : "Luchar contra el cambio climático"  
-      image : "images/about/d6.jpg"
+      image : "images/about/d6.png"
       content : ""
 
           # intro item loop
     - title : "Una sociedad diversa e inclusiva"  
-      image : "images/about/d7.jpg"
+      image : "images/about/d7.png"
       content : ""
 
           # intro item loop
     - title : "El deber del estado de proteger la biodiversidad"  
-      image : "images/about/d8.jpg"
+      image : "images/about/d8.png"
       content : ""
 
           # intro item loop
     - title : "Descentralización política y tributaria"  
-      image : "images/about/d9.jpg"
+      image : "images/about/d9.png"
       content : ""
 
           # intro item loop
     - title : "Acceso al agua para consumo humano y para sustentar ecosistemas"  
-      image : "images/about/d10.jpg"
+      image : "images/about/d10.png"
       content : ""
 
 ################################# Video ###############################
