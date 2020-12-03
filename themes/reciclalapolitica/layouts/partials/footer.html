@@ -6,16 +6,16 @@
 				<div class="footer-widget widget">
 					<h4 class="text-capitalize mb-4 text-white">Recicla la Política</h4>
 					<p>{{ .Site.Params.location | markdownify }}</p>
-
+					<p>Contacto:</p>
 					<ul class="list-unstyled footer-menu mt-4">
 						<li><a href="http://reciclalapolitica.cl/"><i class="ti-link"></i>reciclalapolitica.cl</a></li>
 						<li><a href="mailto:{{ .Site.Params.email }}"><i class="ti-email"></i>{{ .Site.Params.email }}</a></li>
 					</ul>
-					<ul class="list-inline footer-socials">
+					<!-- <ul class="list-inline footer-socials">
 						{{ range .Site.Params.social }}
 						<li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
 						{{ end }}
-					</ul>
+					</ul>-->
 				</div>
 			</div>
 
