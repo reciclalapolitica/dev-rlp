@@ -263,7 +263,30 @@ team:
         - name : "linkedin"
           icon : "ti-linkedin" # themify icon pack https://themify.me/themify-icons
           link : "https://www.linkedin.com/in/adriana-perez-niklitschek-6488ab2/"  
-                 
+             # team member loop
+    - name : "Estela Nahuelpan"
+      designation : "Profesora de Educación Básica. Presidente de Comunidad Mateo Nahuelpan."
+      image : "images/team/estela-nahuelpan.jpg"
+      social:
+          
+        - name : "twitter"
+          icon : "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+          link : "https://twitter.com/estelanahuelpan"
+             # team member loop
+    - name : "Rocío Parra"
+      designation : "Abogada. Investigadora Centro de Derecho del Mar PUCV. Candidata a Doctora en Derecho."
+      image : "images/team/rocio-parra.jpg"
+      social:
+
+        - name : "twitter"
+          icon : "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+          link : "https://twitter.com/rocioparra"
+             # team member loop
+        - name : "linkedin"
+          icon : "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/rocio-parra-cort%C3%A9s-252804181/"
+          
+
 
 
 ################### call to action ###########################
