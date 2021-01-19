@@ -1,6 +1,6 @@
 +++
 bgImage = ""
-categories = ["", ""]
+categories = ["Conversatorio"]
 date = 2021-01-19T20:59:00Z
 description = ""
 image = "/uploads/afiche-constituyente-verde-21-01-2021.jpeg"
