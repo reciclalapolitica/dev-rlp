@@ -9,9 +9,9 @@ title = "Conversatorio El Decálogo del Constituyente Verde "
 type = ""
 
 +++
-## Diálogo 21 enero 18:30 horas 
+## Diálogo 21 enero 18:30 horas
 
-![](/uploads/afiche-constituyente-verde-21-01-2021.jpeg)
+![ancho](/uploads/afiche-constituyente-verde-21-01-2021.jpeg)
 
 Este jueves 21 a las 18:30 horas, se realizará un diálogo sobre constituyentes verdes que contará con la participación de Constance Nalegach, Alex GodoY, Ximena Insunza, Jorge Canals, Estela Nahuelpán, Valentina Durán, y Verónica Delgado. Quien presentará este debate, será la profesora Paulina Astroza, y quien moderará será Marcelo Mena.
 
