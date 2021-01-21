@@ -39,7 +39,8 @@
         <div class="google-map mt-5 mt-lg-0">
           <div id="map" data-latitude="{{ with .Site.Params.mapLatitude }} {{ . }} {{ end }}"
             data-longitude="{{ with .Site.Params.mapLongitude }} {{ . }} {{ end }}"
-            data-marker="{{ with .Site.Params.mapMarker }} {{ . | absURL }} {{ end }}"></div>
+            data-marker="{{ with .Site.Params.mapMarker }} {{ . | absURL }} {{ end }}"
+            zoom-mapa="15"></div>
         </div>
       </div>
     </div>

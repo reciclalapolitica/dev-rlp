@@ -310,7 +310,7 @@ function initialize() {
     position: nottingham,
     map: map,
     icon: pinIcon,
-    title: 'WishFund'
+    title: 'Recicla la Política'
   });
 }
 var map = document.getElementById('map');

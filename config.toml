@@ -178,3 +178,389 @@ link = "#"
 icon = "ti-pinterest" # themify icon pack https://themify.me/themify-icons
 name = "pinterest"
 link = "#"
+
+[[params.Distrito]]
+distritoN = "3"
+comunas = "Antofagasta, Calama, María Elena, Mejillones, Ollagüe, San Pedro de Atacama, Sierra Gorda, Taltal, Tocopilla"
+latitud = "-33.437"
+longitud = "-70.634"
+zoom = "8"
+link = "https://www.bcn.cl/siit/mapoteca/distrito_view_2017?dato=Distrito%20Electoral%20N%C2%B03"
+
+[[params.Distrito]]
+distritoN = "5"
+comunas = "Andacollo, Canela, Combarbalá, Coquimbo, Illapel, La Higuera, La Serena, Los Vilos, Monte Patria, Ovalle, Paihuano, Punitaqui, Río Hurtado, Salamanca, Vicuña"
+latitud = "-33.437"
+longitud = "-70.634"
+zoom = "8"
+link = "https://www.bcn.cl/siit/mapoteca/distrito_view_2017?dato=Distrito%20Electoral%20N%C2%B05"
+
+[[params.Distrito]]
+distritoN = "7"
+comunas = "Algarrobo, Cartagena, Casablanca, Concón, El Quisco, El Tabo, Isla de Pascua, Juan Fernández, San Antonio, Santo Domingo, Valparaíso, Viña del Mar"
+latitud = "-33.437"
+longitud = "-70.634"
+zoom = "8"
+link = "https://www.bcn.cl/siit/mapoteca/distrito_view_2017?dato=Distrito%20Electoral%20N%C2%B07"
+
+[[params.Distrito]]
+distritoN = "9"
+comunas = "Cerro Navia, Conchalí, Huechuraba, Independencia, Lo Prado, Quinta Normal, Recoleta, Renca"
+latitud = "-33.437"
+longitud = "-70.634"
+zoom = "8"
+link = "https://www.bcn.cl/siit/mapoteca/distrito_view_2017?dato=Distrito%20Electoral%20N%C2%B09"
+
+[[params.Distrito]]
+distritoN = "10"
+comunas = "La Granja, Macul, Ñuñoa, Providencia, San Joaquín, Santiago"
+latitud = "-33.437"
+longitud = "-70.634"
+zoom = "8"
+link = "https://www.bcn.cl/siit/mapoteca/distrito_view_2017?dato=Distrito%20Electoral%20N%C2%B010"
+
+[[params.Distrito]]
+distritoN = "11"
+comunas = "La Reina, Las Condes, Lo Barnechea, Peñalolén, Vitacura"
+latitud = "-33.437"
+longitud = "-70.634"
+zoom = "8"
+link = "https://www.bcn.cl/siit/mapoteca/distrito_view_2017?dato=Distrito%20Electoral%20N%C2%B011"
+
+[[params.Distrito]]
+distritoN = "12"
+comunas = "La Florida, La Pintana, Pirque, Puente Alto, San José de Maipo"
+latitud = "-33.437"
+longitud = "-70.634"
+zoom = "8"
+link = "https://www.bcn.cl/siit/mapoteca/distrito_view_2017?dato=Distrito%20Electoral%20N%C2%B012"
+
+[[params.Distrito]]
+distritoN = "20"
+comunas = "Chiguayante, Concepción, Coronel, Florida, Hualpén, Hualqui, Penco, San Pedro de la Paz, Santa Juana, Talcahuano, Tomé"
+latitud = "-33.437"
+longitud = "-70.634"
+zoom = "8"
+link = "https://www.bcn.cl/siit/mapoteca/distrito_view_2017?dato=Distrito%20Electoral%20N%C2%B020"
+
+[[params.Distrito]]
+distritoN = "21"
+comunas = "Alto Biobío, Antuco, Arauco, Cabrero, Cañete, Contulmo, Curanilahue, Laja, Lebu, Los Alamos, Los Angeles, Lota, Mulchén, Nacimiento, Negrete, Quilaco, Quilleco, San Rosendo, Santa Bárbara, Tirúa, Tucapel, Yumbel"
+latitud = "-33.437"
+longitud = "-70.634"
+zoom = "8"
+link = "https://www.bcn.cl/siit/mapoteca/distrito_view_2017?dato=Distrito%20Electoral%20N%C2%B021"
+
+[[params.Distrito]]
+distritoN = "28"
+comunas = "Antártica, Cabo de Hornos, Laguna Blanca, Natales, Porvenir, Primavera, Punta Arenas, Río Verde, San Gregorio, Timaukel, Torres del Paine"
+latitud = "-33.437"
+longitud = "-70.634"
+zoom = "8"
+link = "https://www.bcn.cl/siit/mapoteca/distrito_view_2017?dato=Distrito%20Electoral%20N%C2%B028"
+
+[[params.Candidato]]
+nombre = "Felipe Lerzundi Rivas"
+distrito = "3"
+lista = "Lista del Apruebo"
+sexo = "Hombre"
+partido = "Partido Demócrata Cristiano (DC)"
+escano = "No"
+redSocial = "https://www.facebook.com/flerzund"
+
+[[params.Candidato]]
+nombre = "Felipe Roberto Sepúlveda Lepe"
+distrito = "5"
+lista = "Partido Ecologista Verde"
+sexo = "Hombre"
+partido = "Partido Ecologista Verde (PEV)"
+escano = "No"
+redSocial = "https://www.instagram.com/felisep/"
+
+[[params.Candidato]]
+nombre = "Paola Tapia Salas"
+distrito = "7"
+lista = "Lista del Apruebo"
+sexo = "Mujer"
+partido = "Independientes - Partido por la Democracia (PPD)"
+escano = "No"
+redSocial = "https://www.facebook.com/SalasTapiaPaola"
+
+[[params.Candidato]]
+nombre = "Gonzalo Manuel Bacigalupe Rojas"
+distrito = "9"
+lista = "Apruebo Dignidad"
+sexo = "Hombre"
+partido = "Independiente - Federación Regionalista Verde Social (FRVS)"
+escano = "No"
+redSocial = "https://twitter.com/bacigalupe"
+
+[[params.Candidato]]
+nombre = "Uriel Gonzalez"
+distrito = "9"
+lista = "Independiente"
+sexo = "Hombre"
+partido = "Independiente"
+escano = "No"
+redSocial = "https://twitter.com/urielgonzalez"
+
+[[params.Candidato]]
+nombre = "Lucía López Guerra"
+distrito = "10"
+lista = "Lista del Apruebo"
+sexo = "Mujer"
+partido = "Independiente - Partido por la Democracia (PPD)"
+escano = "No"
+redSocial = "https://www.instagram.com/luciavlopezg/"
+
+[[params.Candidato]]
+nombre = "Andrés Pérez"
+distrito = "10"
+lista = "Independientes No Neutrales"
+sexo = "Hombre"
+partido = "Independiente"
+escano = "No"
+redSocial = "https://interactivo.latercera.com/candidatos-constituyentes/distrito-10/andres-perez/"
+
+[[params.Candidato]]
+nombre = "Carolina Arenas"
+distrito = "10"
+lista = "Independientes No Neutrales"
+sexo = "Mujer"
+partido = "Independiente"
+escano = "No"
+redSocial = "#"
+
+[[params.Candidato]]
+nombre = "Gabriel Gurovich Steiner"
+distrito = "10"
+lista = "Independientes No Neutrales"
+sexo = "Hombre"
+partido = "Independiente"
+escano = "No"
+redSocial = "http://interactivo.latercera.com/candidatos-constituyentes/distrito-10/gabriel-gurovich-steiner/"
+
+[[params.Candidato]]
+nombre = "José Andrés Murillo Urrutia"
+distrito = "10"
+lista = "Independientes No Neutrales"
+sexo = "Hombre"
+partido = "Independiente"
+escano = "No"
+redSocial = "https://www.facebook.com/josandrsmurillo"
+
+[[params.Candidato]]
+nombre = "Macarena del Carmen Lobos Palacios"
+distrito = "10"
+lista = "Independientes No Neutrales"
+sexo = "Mujer"
+partido = "Independiente"
+escano = "No"
+redSocial = "https://www.facebook.com/macarenalobospalacios"
+
+[[params.Candidato]]
+nombre = "Pablo Morris"
+distrito = "10"
+lista = "Independientes No Neutrales"
+sexo = "Hombre"
+partido = "Independiente"
+escano = "No"
+redSocial = "https://www.facebook.com/pmorrisconstituyente"
+
+[[params.Candidato]]
+nombre = "Patricia Politzer"
+distrito = "10"
+lista = "Independientes No Neutrales"
+sexo = "Mujer"
+partido = "Independiente"
+escano = "No"
+redSocial = "https://www.facebook.com/patriciapolitz"
+
+[[params.Candidato]]
+nombre = "Roxana Espinoza"
+distrito = "10"
+lista = "Independientes No Neutrales"
+sexo = "Mujer"
+partido = "Independiente"
+escano = "No"
+redSocial = "https://interactivo.latercera.com/candidatos-constituyentes/distrito-10/roxana-espinoza/"
+
+[[params.Candidato]]
+nombre = "Cristobal Patricio Bellolio Badiola"
+distrito = "11"
+lista = "Lista del Apruebo"
+sexo = "Hombre"
+partido = "Independiente - Ciudadanos (CIU)"
+escano = "No"
+redSocial = "https://www.facebook.com/Crist%C3%B3bal-Bellolio-Constituyente-107195564645586"
+
+[[params.Candidato]]
+nombre = "Elisa Walker Echenique"
+distrito = "11"
+lista = "Lista del Apruebo"
+sexo = "Mujer"
+partido = "Partido Demócrata Cristiano (DC)"
+escano = "No"
+redSocial = "https://www.facebook.com/ElisaWalkerE"
+
+[[params.Candidato]]
+nombre = "Patricio Herman Fernández Chadwick"
+distrito = "11"
+lista = "Lista del Apruebo"
+sexo = "Hombre"
+partido = "Independiente - Partido Liberal (PL)"
+escano = "No"
+redSocial = "https://www.instagram.com/patofdez/"
+
+[[params.Candidato]]
+nombre = "Soledad Mella"
+distrito = "11"
+lista = 'Movimiento Social "La Lista del Pueblo"'
+sexo = "Mujer"
+partido = "Independiente"
+escano = "No"
+redSocial = "https://www.instagram.com/solparachile/"
+
+[[params.Candidato]]
+nombre = "Juan José Martin"
+distrito = "12"
+lista = "Independientes No Neutrales"
+sexo = "Hombre"
+partido = "Independiente"
+escano = "No"
+redSocial = "https://www.instagram.com/juanjo.constituyente/"
+
+[[params.Candidato]]
+nombre = "Ana María Cavalerie"
+distrito = "20"
+lista = "Independientes del Biobío por una Nueva Constitución"
+sexo = "Mujer"
+partido = "Independiente"
+escano = "No"
+redSocial = "https://www.facebook.com/mimi.cavalerie"
+
+[[params.Candidato]]
+nombre = "Antonio Mena"
+distrito = "20"
+lista = "Independientes del Biobío por una Nueva Constitución"
+sexo = "Hombre"
+partido = "Independiente"
+escano = "No"
+redSocial = "https://interactivo.latercera.com/candidatos-constituyentes/distrito-20/antonio-mena/"
+
+[[params.Candidato]]
+nombre = "Magaly Mella Ábalos"
+distrito = "20"
+lista = "Independientes No Neutrales"
+sexo = "Mujer"
+partido = "Independiente"
+escano = "No"
+redSocial = "https://www.facebook.com/magalymella.precandidata"
+
+[[params.Candidato]]
+nombre = "Nicolás Felipos Fuentes"
+distrito = "20"
+lista = "Independientes del Biobío por una Nueva Constitución"
+sexo = "Hombre"
+partido = "Independiente"
+escano = "No"
+redSocial = "https://www.facebook.com/NicolasFeliposFuentes"
+
+[[params.Candidato]]
+nombre = "Pablo Rodríguez Arias"
+distrito = "20"
+lista = "Independientes del Biobío por una Nueva Constitución"
+sexo = "Hombre"
+partido = "Independiente"
+escano = "No"
+redSocial = "https://www.facebook.com/pablo.rodriguezarias.961"
+
+[[params.Candidato]]
+nombre = "Paulo San Martin"
+distrito = "20"
+lista = "Independientes No Neutrales"
+sexo = "Hombre"
+partido = "Independiente"
+escano = "No"
+redSocial = "https://www.instagram.com/paulosanmartind20/"
+
+[[params.Candidato]]
+nombre = "Susana Herrera Quezada"
+distrito = "20"
+lista = "Independientes No Neutrales"
+sexo = "Mujer"
+partido = "Independiente"
+escano = "No"
+redSocial = "https://www.facebook.com/Susana-Herrera-Constituyente-105041661531925"
+
+[[params.Candidato]]
+nombre = "Tammy Pustilnick"
+distrito = "20"
+lista = "Independientes No Neutrales"
+sexo = "Mujer"
+partido = "Independiente"
+escano = "No"
+redSocial = "https://www.instagram.com/tammyccp/"
+
+[[params.Candidato]]
+nombre = "Alejandra Navarrete Ferreira"
+distrito = "21"
+lista = "Independientes No Neutrales"
+sexo = "Mujer"
+partido = "Independiente"
+escano = "No"
+redSocial = "https://interactivo.latercera.com/candidatos-constituyentes/distrito-21/alejandra-navarrete/"
+
+[[params.Candidato]]
+nombre = "Clara Sagardia Cabezas"
+distrito = "21"
+lista = "Independientes No Neutrales"
+sexo = "Mujer"
+partido = "Independiente"
+escano = "No"
+redSocial = "https://www.facebook.com/clara.sagardiacabezas.7"
+
+[[params.Candidato]]
+nombre = "Elizabeth Aguilera Novoa"
+distrito = "21"
+lista = "Independientes No Neutrales"
+sexo = "Mujer"
+partido = "Independiente"
+escano = "No"
+redSocial = "https://www.facebook.com/elizabeth.aguileranovoa.7"
+
+[[params.Candidato]]
+nombre = "German Díaz"
+distrito = "21"
+lista = "Independiente"
+sexo = "Hombre"
+partido = "Independiente"
+escano = "No"
+redSocial = "#"
+
+[[params.Candidato]]
+nombre = "Javier Fuchslocher Baeza"
+distrito = "21"
+lista = "Independientes No Neutrales"
+sexo = "Hombre"
+partido = "Independiente"
+escano = "No"
+redSocial = "https://www.facebook.com/javierfprecandidatoD21"
+
+[[params.Candidato]]
+nombre = "Luis Alberto Gutiérrez"
+distrito = "21"
+lista = "Independientes No Neutrales"
+sexo = "Hombre"
+partido = "Independiente"
+escano = "No"
+redSocial = "https://interactivo.latercera.com/candidatos-constituyentes/distrito-21/luis-alberto-gutierrez/"
+
+[[params.Candidato]]
+nombre = "Adriana Marcela Baratelli"
+distrito = "28"
+lista = "Lista del Apruebo"
+sexo = "Mujer"
+partido = "Independiente - Partido Progresista (PRO)"
+escano = "No"
+redSocial = "https://www.facebook.com/MarcelaBaratelliConstituyenteMagallanes/"

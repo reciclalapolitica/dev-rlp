@@ -212,5 +212,22 @@ img[alt="ancho"]{
   overflow: hidden;
 }
 
+.distrito-card {
+  display: none;
+}
+
+.activo {
+  display: block !important;
+}
+
+.candidato-control {
+  display: none;
+}
+
+.candidato-control-activo {
+  display: block !important;
+}
+
+
 
 
