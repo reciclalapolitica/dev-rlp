@@ -307,12 +307,21 @@ function initialize() {
   map.setMapTypeId('grey');
   var marker_image = mapMarker;
   var pinIcon = new google.maps.MarkerImage(marker_image, null, null, null, new google.maps.Size(46, 50));
+
+/*   const ctaLayer = new google.maps.KmlLayer({
+    url: "",
+    map: map,
+  
+
+
   marker = new google.maps.Marker({
     position: nottingham,
     map: map,
     icon: pinIcon,
     title: 'Recicla la Política'
   });
+
+
 
 }
 var map = document.getElementById('map');
