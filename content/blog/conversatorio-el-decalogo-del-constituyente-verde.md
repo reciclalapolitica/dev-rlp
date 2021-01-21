@@ -1,7 +1,7 @@
 +++
 bgImage = ""
 categories = ["Conversatorio"]
-date = 2021-01-19T20:59:00Z
+date = 2021-01-19T21:57:00Z
 description = ""
 image = "/uploads/afiche-constituyente-verde-21-01-2021.jpeg"
 tags = []
@@ -9,7 +9,6 @@ title = "Conversatorio El Decálogo del Constituyente Verde "
 type = ""
 
 +++
-## Diálogo 21 enero 18:30 horas
 
 ![ancho](/uploads/afiche-constituyente-verde-21-01-2021.jpeg)
 
