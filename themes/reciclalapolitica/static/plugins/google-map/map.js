@@ -5,6 +5,7 @@ function initialize() {
   var latitude = $('#map').attr('data-latitude');
   var longitude = $('#map').attr('data-longitude');
   var mapMarker = $('#map').attr('data-marker');
+  var mapDistrito = $('#map').attr('data-distrito');
   var zoomMapa = $('#map').attr('zoom-mapa');
   var nottingham = new google.maps.LatLng(latitude, longitude);
   var style = [{
@@ -306,12 +307,13 @@ function initialize() {
   map.mapTypes.set('grey', mapType);
   map.setMapTypeId('grey');
   var marker_image = mapMarker;
+  console.log(mapDistrito);
   var pinIcon = new google.maps.MarkerImage(marker_image, null, null, null, new google.maps.Size(46, 50));
 
-/*   const ctaLayer = new google.maps.KmlLayer({
-    url: "",
+  const ctaLayer = new google.maps.KmlLayer({
+    url: mapDistrito,
     map: map,
-  }); */
+  });
   
 
 
