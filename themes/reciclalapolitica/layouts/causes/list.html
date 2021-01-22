@@ -142,20 +142,22 @@ function activeControl(idElemento,distrito) {
 
 }
 
-function clickDistrito(latitude, longitude, zoom, distrito) {
+function clickDistrito(latitude, longitude, zoom, kml, distrito) {
 
   document.getElementById('map').setAttribute("data-latitude", latitude);
   document.getElementById('map').setAttribute("data-longitude", longitude);
   document.getElementById('map').setAttribute("zoom-mapa", zoom); 
-  document.getElementById('map').setAttribute("data-distrito", distrito); 
+  document.getElementById('map').setAttribute("data-distrito", kml); 
+  document.getElementById('map').setAttribute("data-marker", distrito); 
   initialize();
 }
 
 $(document).ready(function(){  
   {{ range .Site.Params.Distrito }}
     $( "#distrito{{ .distritoN }}" ).click(function() {
+        var imgDistrito = "../images/gallery/marker-distrito-{{ .distritoN }}.png";
         var kmlDistrito = "https://reciclalapolitica.cl/kml/distrito{{ .distritoN }}.kml";
-        clickDistrito("{{ .latitud }}", "{{ .longitud }}", {{ .zoom }}, kmlDistrito);
+        clickDistrito("{{ .latitud }}", "{{ .longitud }}", {{ .zoom }}, kmlDistrito, imgDistrito);
         activeControl(this,{{ .distritoN }});
     });
   {{ end }}
