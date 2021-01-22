@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>3.kml</name>
-	<Style id="style">
+	<Style id="style9">
 		<IconStyle>
 			<color>00ffffff</color>
 			<scale>0.4</scale>
@@ -25,119 +25,27 @@
 			<color>96005500</color>
 		</PolyStyle>
 	</Style>
-	<Style id="style0">
-		<IconStyle>
-			<color>00ffffff</color>
-			<scale>0.4</scale>
-			<heading>0</heading>
-			<Icon>
-				<href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
-				<refreshInterval>0</refreshInterval>
-				<viewRefreshTime>0</viewRefreshTime>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<color>fffffffc</color>
-			<scale>1.2</scale>
-		</LabelStyle>
-		<LineStyle>
-			<color>fffffffe</color>
-			<width>0.7</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>96005500</color>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="stylemap_id0">
+	<StyleMap id="stylemap_id4">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#style</styleUrl>
+			<styleUrl>#style15</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#style11</styleUrl>
+			<styleUrl>#style0</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="style1">
-		<IconStyle>
-			<color>00ffffff</color>
-			<scale>0.4</scale>
-			<heading>0</heading>
-			<Icon>
-				<href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
-				<refreshInterval>0</refreshInterval>
-				<viewRefreshTime>0</viewRefreshTime>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<color>fffffffc</color>
-			<scale>1.2</scale>
-		</LabelStyle>
-		<LineStyle>
-			<color>fffffffe</color>
-			<width>0.7</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>96005500</color>
-		</PolyStyle>
-	</Style>
-	<Style id="style2">
-		<IconStyle>
-			<color>00ffffff</color>
-			<scale>0.4</scale>
-			<heading>0</heading>
-			<Icon>
-				<href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
-				<refreshInterval>0</refreshInterval>
-				<viewRefreshTime>0</viewRefreshTime>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<color>fffffffc</color>
-			<scale>1.2</scale>
-		</LabelStyle>
-		<LineStyle>
-			<color>fffffffe</color>
-			<width>0.7</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>96005500</color>
-		</PolyStyle>
-	</Style>
-	<Style id="style3">
-		<IconStyle>
-			<color>00ffffff</color>
-			<scale>0.4</scale>
-			<heading>0</heading>
-			<Icon>
-				<href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
-				<refreshInterval>0</refreshInterval>
-				<viewRefreshTime>0</viewRefreshTime>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<color>fffffffc</color>
-			<scale>1.2</scale>
-		</LabelStyle>
-		<LineStyle>
-			<color>fffffffe</color>
-			<width>0.7</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>96005500</color>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="stylemap_id2">
+	<StyleMap id="stylemap_id8">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#style2</styleUrl>
+			<styleUrl>#style16</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#style3</styleUrl>
+			<styleUrl>#style10</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="style4">
+	<Style id="style13">
 		<IconStyle>
 			<color>00ffffff</color>
 			<scale>0.4</scale>
@@ -206,14 +114,159 @@
 			<color>96005500</color>
 		</PolyStyle>
 	</Style>
-	<StyleMap id="stylemap_id8">
+	<StyleMap id="stylemap_id2">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#style16</styleUrl>
+			<styleUrl>#style2</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#style10</styleUrl>
+			<styleUrl>#style3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style10">
+		<IconStyle>
+			<color>00ffffff</color>
+			<scale>0.4</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>fffffffc</color>
+			<scale>1.2</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>fffffffe</color>
+			<width>0.7</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>96005500</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style2">
+		<IconStyle>
+			<color>00ffffff</color>
+			<scale>0.4</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>fffffffc</color>
+			<scale>1.2</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>fffffffe</color>
+			<width>0.7</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>96005500</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style12">
+		<IconStyle>
+			<color>00ffffff</color>
+			<scale>0.4</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>fffffffc</color>
+			<scale>1.2</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>fffffffe</color>
+			<width>0.7</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>96005500</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style14</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style16">
+		<IconStyle>
+			<color>00ffffff</color>
+			<scale>0.4</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>fffffffc</color>
+			<scale>1.2</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>fffffffe</color>
+			<width>0.7</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>96005500</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style">
+		<IconStyle>
+			<color>00ffffff</color>
+			<scale>0.4</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>fffffffc</color>
+			<scale>1.2</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>fffffffe</color>
+			<width>0.7</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>96005500</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style9</styleUrl>
 		</Pair>
 	</StyleMap>
 	<Style id="style7">
@@ -239,7 +292,7 @@
 			<color>96005500</color>
 		</PolyStyle>
 	</Style>
-	<Style id="style8">
+	<Style id="style4">
 		<IconStyle>
 			<color>00ffffff</color>
 			<scale>0.4</scale>
@@ -262,7 +315,7 @@
 			<color>96005500</color>
 		</PolyStyle>
 	</Style>
-	<Style id="style9">
+	<Style id="style0">
 		<IconStyle>
 			<color>00ffffff</color>
 			<scale>0.4</scale>
@@ -285,7 +338,7 @@
 			<color>96005500</color>
 		</PolyStyle>
 	</Style>
-	<Style id="style10">
+	<Style id="style1">
 		<IconStyle>
 			<color>00ffffff</color>
 			<scale>0.4</scale>
@@ -331,79 +384,6 @@
 			<color>96005500</color>
 		</PolyStyle>
 	</Style>
-	<StyleMap id="stylemap_id1">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#style4</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#style1</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="style12">
-		<IconStyle>
-			<color>00ffffff</color>
-			<scale>0.4</scale>
-			<heading>0</heading>
-			<Icon>
-				<href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
-				<refreshInterval>0</refreshInterval>
-				<viewRefreshTime>0</viewRefreshTime>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<color>fffffffc</color>
-			<scale>1.2</scale>
-		</LabelStyle>
-		<LineStyle>
-			<color>fffffffe</color>
-			<width>0.7</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>96005500</color>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="stylemap_id7">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#style5</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#style9</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="stylemap_id6">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#style6</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#style13</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="stylemap_id4">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#style15</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#style0</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="stylemap_id5">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#style12</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#style14</styleUrl>
-		</Pair>
-	</StyleMap>
 	<StyleMap id="stylemap_id3">
 		<Pair>
 			<key>normal</key>
@@ -414,7 +394,7 @@
 			<styleUrl>#style7</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="style13">
+	<Style id="style14">
 		<IconStyle>
 			<color>00ffffff</color>
 			<scale>0.4</scale>
@@ -437,7 +417,27 @@
 			<color>96005500</color>
 		</PolyStyle>
 	</Style>
-	<Style id="style14">
+	<StyleMap id="stylemap_id0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style8">
 		<IconStyle>
 			<color>00ffffff</color>
 			<scale>0.4</scale>
@@ -483,7 +483,7 @@
 			<color>96005500</color>
 		</PolyStyle>
 	</Style>
-	<Style id="style16">
+	<Style id="style3">
 		<IconStyle>
 			<color>00ffffff</color>
 			<scale>0.4</scale>
@@ -519,20 +519,6 @@
 		</LookAt>
 		<Placemark id="division_comunal_geo_ide_1.42">
 			<name>Antofagasta</name>
-			<description><![CDATA[<h4>division_comunal_geo_ide_1</h4>
-
-<ul class="textattributes">
-  
-  <li><strong><span class="atr-name">NOM_REG</span>:</strong> <span class="atr-value">Región de Antofagasta</span></li>
-  <li><strong><span class="atr-name">NOM_PROV</span>:</strong> <span class="atr-value">Antofagasta</span></li>
-  <li><strong><span class="atr-name">NOM_COM</span>:</strong> <span class="atr-value">Antofagasta</span></li>
-  <li><strong><span class="atr-name">SHAPE_LENG</span>:</strong> <span class="atr-value">1114785.21186</span></li>
-  <li><strong><span class="atr-name">DIS_ELEC</span>:</strong> <span class="atr-value">4</span></li>
-  <li><strong><span class="atr-name">CIR_SENA</span>:</strong> <span class="atr-value">2</span></li>
-  <li><strong><span class="atr-name">COD_COMUNA</span>:</strong> <span class="atr-value">2101</span></li>
-  <li><strong><span class="atr-name">SHAPE_Le_1</span>:</strong> <span class="atr-value">1114785.21192</span></li>
-  <li><strong><span class="atr-name">SHAPE_Area</span>:</strong> <span class="atr-value">3.09858724636E10</span></li>
-</ul>]]></description>
 			<LookAt>
 				<longitude>-69.33585411822824</longitude>
 				<latitude>-24.23515565161732</latitude>
@@ -602,20 +588,6 @@
 		</Placemark>
 		<Placemark id="division_comunal_geo_ide_1.43">
 			<name>Mejillones</name>
-			<description><![CDATA[<h4>division_comunal_geo_ide_1</h4>
-
-<ul class="textattributes">
-  
-  <li><strong><span class="atr-name">NOM_REG</span>:</strong> <span class="atr-value">Región de Antofagasta</span></li>
-  <li><strong><span class="atr-name">NOM_PROV</span>:</strong> <span class="atr-value">Antofagasta</span></li>
-  <li><strong><span class="atr-name">NOM_COM</span>:</strong> <span class="atr-value">Mejillones</span></li>
-  <li><strong><span class="atr-name">SHAPE_LENG</span>:</strong> <span class="atr-value">366551.572355</span></li>
-  <li><strong><span class="atr-name">DIS_ELEC</span>:</strong> <span class="atr-value">4</span></li>
-  <li><strong><span class="atr-name">CIR_SENA</span>:</strong> <span class="atr-value">2</span></li>
-  <li><strong><span class="atr-name">COD_COMUNA</span>:</strong> <span class="atr-value">2102</span></li>
-  <li><strong><span class="atr-name">SHAPE_Le_1</span>:</strong> <span class="atr-value">366551.572222</span></li>
-  <li><strong><span class="atr-name">SHAPE_Area</span>:</strong> <span class="atr-value">3.56950996388E9</span></li>
-</ul>]]></description>
 			<LookAt>
 				<longitude>-70.20901976580936</longitude>
 				<latitude>-22.89423941166396</latitude>
@@ -643,20 +615,6 @@
 		</Placemark>
 		<Placemark id="division_comunal_geo_ide_1.44">
 			<name>Sierra Gorda</name>
-			<description><![CDATA[<h4>division_comunal_geo_ide_1</h4>
-
-<ul class="textattributes">
-  
-  <li><strong><span class="atr-name">NOM_REG</span>:</strong> <span class="atr-value">Región de Antofagasta</span></li>
-  <li><strong><span class="atr-name">NOM_PROV</span>:</strong> <span class="atr-value">Antofagasta</span></li>
-  <li><strong><span class="atr-name">NOM_COM</span>:</strong> <span class="atr-value">Sierra Gorda</span></li>
-  <li><strong><span class="atr-name">SHAPE_LENG</span>:</strong> <span class="atr-value">540055.422112</span></li>
-  <li><strong><span class="atr-name">DIS_ELEC</span>:</strong> <span class="atr-value">4</span></li>
-  <li><strong><span class="atr-name">CIR_SENA</span>:</strong> <span class="atr-value">2</span></li>
-  <li><strong><span class="atr-name">COD_COMUNA</span>:</strong> <span class="atr-value">2103</span></li>
-  <li><strong><span class="atr-name">SHAPE_Le_1</span>:</strong> <span class="atr-value">540055.422364</span></li>
-  <li><strong><span class="atr-name">SHAPE_Area</span>:</strong> <span class="atr-value">1.28339414721E10</span></li>
-</ul>]]></description>
 			<LookAt>
 				<longitude>-69.31336431232972</longitude>
 				<latitude>-23.24190288763046</latitude>
@@ -684,20 +642,6 @@
 		</Placemark>
 		<Placemark id="division_comunal_geo_ide_1.45">
 			<name>Taltal</name>
-			<description><![CDATA[<h4>division_comunal_geo_ide_1</h4>
-
-<ul class="textattributes">
-  
-  <li><strong><span class="atr-name">NOM_REG</span>:</strong> <span class="atr-value">Región de Antofagasta</span></li>
-  <li><strong><span class="atr-name">NOM_PROV</span>:</strong> <span class="atr-value">Antofagasta</span></li>
-  <li><strong><span class="atr-name">NOM_COM</span>:</strong> <span class="atr-value">Taltal</span></li>
-  <li><strong><span class="atr-name">SHAPE_LENG</span>:</strong> <span class="atr-value">771566.577565</span></li>
-  <li><strong><span class="atr-name">DIS_ELEC</span>:</strong> <span class="atr-value">4</span></li>
-  <li><strong><span class="atr-name">CIR_SENA</span>:</strong> <span class="atr-value">2</span></li>
-  <li><strong><span class="atr-name">COD_COMUNA</span>:</strong> <span class="atr-value">2104</span></li>
-  <li><strong><span class="atr-name">SHAPE_Le_1</span>:</strong> <span class="atr-value">771566.577688</span></li>
-  <li><strong><span class="atr-name">SHAPE_Area</span>:</strong> <span class="atr-value">2.02928795097E10</span></li>
-</ul>]]></description>
 			<LookAt>
 				<longitude>-69.86098964155346</longitude>
 				<latitude>-25.30577858694674</latitude>
@@ -757,20 +701,6 @@
 		</Placemark>
 		<Placemark id="division_comunal_geo_ide_1.46">
 			<name>Calama</name>
-			<description><![CDATA[<h4>division_comunal_geo_ide_1</h4>
-
-<ul class="textattributes">
-  
-  <li><strong><span class="atr-name">NOM_REG</span>:</strong> <span class="atr-value">Región de Antofagasta</span></li>
-  <li><strong><span class="atr-name">NOM_PROV</span>:</strong> <span class="atr-value">El Loa</span></li>
-  <li><strong><span class="atr-name">NOM_COM</span>:</strong> <span class="atr-value">Calama</span></li>
-  <li><strong><span class="atr-name">SHAPE_LENG</span>:</strong> <span class="atr-value">627965.864192</span></li>
-  <li><strong><span class="atr-name">DIS_ELEC</span>:</strong> <span class="atr-value">3</span></li>
-  <li><strong><span class="atr-name">CIR_SENA</span>:</strong> <span class="atr-value">2</span></li>
-  <li><strong><span class="atr-name">COD_COMUNA</span>:</strong> <span class="atr-value">2201</span></li>
-  <li><strong><span class="atr-name">SHAPE_Le_1</span>:</strong> <span class="atr-value">627965.864547</span></li>
-  <li><strong><span class="atr-name">SHAPE_Area</span>:</strong> <span class="atr-value">1.55099379538E10</span></li>
-</ul>]]></description>
 			<LookAt>
 				<longitude>-68.55386180305788</longitude>
 				<latitude>-22.11277926804266</latitude>
@@ -798,20 +728,6 @@
 		</Placemark>
 		<Placemark id="division_comunal_geo_ide_1.47">
 			<name>Ollagüe</name>
-			<description><![CDATA[<h4>division_comunal_geo_ide_1</h4>
-
-<ul class="textattributes">
-  
-  <li><strong><span class="atr-name">NOM_REG</span>:</strong> <span class="atr-value">Región de Antofagasta</span></li>
-  <li><strong><span class="atr-name">NOM_PROV</span>:</strong> <span class="atr-value">El Loa</span></li>
-  <li><strong><span class="atr-name">NOM_COM</span>:</strong> <span class="atr-value">Ollagüe</span></li>
-  <li><strong><span class="atr-name">SHAPE_LENG</span>:</strong> <span class="atr-value">287024.394098</span></li>
-  <li><strong><span class="atr-name">DIS_ELEC</span>:</strong> <span class="atr-value">3</span></li>
-  <li><strong><span class="atr-name">CIR_SENA</span>:</strong> <span class="atr-value">2</span></li>
-  <li><strong><span class="atr-name">COD_COMUNA</span>:</strong> <span class="atr-value">2202</span></li>
-  <li><strong><span class="atr-name">SHAPE_Le_1</span>:</strong> <span class="atr-value">287024.394386</span></li>
-  <li><strong><span class="atr-name">SHAPE_Area</span>:</strong> <span class="atr-value">2.85176953124E9</span></li>
-</ul>]]></description>
 			<LookAt>
 				<longitude>-68.29532507494167</longitude>
 				<latitude>-21.46138298319363</latitude>
@@ -839,20 +755,6 @@
 		</Placemark>
 		<Placemark id="division_comunal_geo_ide_1.48">
 			<name>San Pedro de Atacama</name>
-			<description><![CDATA[<h4>division_comunal_geo_ide_1</h4>
-
-<ul class="textattributes">
-  
-  <li><strong><span class="atr-name">NOM_REG</span>:</strong> <span class="atr-value">Región de Antofagasta</span></li>
-  <li><strong><span class="atr-name">NOM_PROV</span>:</strong> <span class="atr-value">El Loa</span></li>
-  <li><strong><span class="atr-name">NOM_COM</span>:</strong> <span class="atr-value">San Pedro de Atacama</span></li>
-  <li><strong><span class="atr-name">SHAPE_LENG</span>:</strong> <span class="atr-value">701800.313349</span></li>
-  <li><strong><span class="atr-name">DIS_ELEC</span>:</strong> <span class="atr-value">3</span></li>
-  <li><strong><span class="atr-name">CIR_SENA</span>:</strong> <span class="atr-value">2</span></li>
-  <li><strong><span class="atr-name">COD_COMUNA</span>:</strong> <span class="atr-value">2203</span></li>
-  <li><strong><span class="atr-name">SHAPE_Le_1</span>:</strong> <span class="atr-value">701800.313284</span></li>
-  <li><strong><span class="atr-name">SHAPE_Area</span>:</strong> <span class="atr-value">2.35906012805E10</span></li>
-</ul>]]></description>
 			<LookAt>
 				<longitude>-67.84877663465451</longitude>
 				<latitude>-23.35580559196394</latitude>
@@ -880,20 +782,6 @@
 		</Placemark>
 		<Placemark id="division_comunal_geo_ide_1.49">
 			<name>María Elena</name>
-			<description><![CDATA[<h4>division_comunal_geo_ide_1</h4>
-
-<ul class="textattributes">
-  
-  <li><strong><span class="atr-name">NOM_REG</span>:</strong> <span class="atr-value">Región de Antofagasta</span></li>
-  <li><strong><span class="atr-name">NOM_PROV</span>:</strong> <span class="atr-value">Tocopilla</span></li>
-  <li><strong><span class="atr-name">NOM_COM</span>:</strong> <span class="atr-value">María Elena</span></li>
-  <li><strong><span class="atr-name">SHAPE_LENG</span>:</strong> <span class="atr-value">629941.072156</span></li>
-  <li><strong><span class="atr-name">DIS_ELEC</span>:</strong> <span class="atr-value">3</span></li>
-  <li><strong><span class="atr-name">CIR_SENA</span>:</strong> <span class="atr-value">2</span></li>
-  <li><strong><span class="atr-name">COD_COMUNA</span>:</strong> <span class="atr-value">2302</span></li>
-  <li><strong><span class="atr-name">SHAPE_Le_1</span>:</strong> <span class="atr-value">629941.072687</span></li>
-  <li><strong><span class="atr-name">SHAPE_Area</span>:</strong> <span class="atr-value">1.22007902143E10</span></li>
-</ul>]]></description>
 			<LookAt>
 				<longitude>-69.41644677870744</longitude>
 				<latitude>-22.08355113554425</latitude>
@@ -921,20 +809,6 @@
 		</Placemark>
 		<Placemark id="division_comunal_geo_ide_1.50">
 			<name>Tocopilla</name>
-			<description><![CDATA[<h4>division_comunal_geo_ide_1</h4>
-
-<ul class="textattributes">
-  
-  <li><strong><span class="atr-name">NOM_REG</span>:</strong> <span class="atr-value">Región de Antofagasta</span></li>
-  <li><strong><span class="atr-name">NOM_PROV</span>:</strong> <span class="atr-value">Tocopilla</span></li>
-  <li><strong><span class="atr-name">NOM_COM</span>:</strong> <span class="atr-value">Tocopilla</span></li>
-  <li><strong><span class="atr-name">SHAPE_LENG</span>:</strong> <span class="atr-value">419196.369696</span></li>
-  <li><strong><span class="atr-name">DIS_ELEC</span>:</strong> <span class="atr-value">3</span></li>
-  <li><strong><span class="atr-name">CIR_SENA</span>:</strong> <span class="atr-value">2</span></li>
-  <li><strong><span class="atr-name">COD_COMUNA</span>:</strong> <span class="atr-value">2301</span></li>
-  <li><strong><span class="atr-name">SHAPE_Le_1</span>:</strong> <span class="atr-value">419196.370735</span></li>
-  <li><strong><span class="atr-name">SHAPE_Area</span>:</strong> <span class="atr-value">4.18471136492E9</span></li>
-</ul>]]></description>
 			<LookAt>
 				<longitude>-70.00089020432543</longitude>
 				<latitude>-22.02785325515744</latitude>
