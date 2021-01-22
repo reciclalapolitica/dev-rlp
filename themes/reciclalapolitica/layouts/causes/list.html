@@ -97,7 +97,7 @@
           <div id="map" class="mt-3 px-3"
           data-latitude="{{ with .Site.Params.mapLatitude }} {{ . }} {{ end }}"
           data-longitude="{{ with .Site.Params.mapLongitude }} {{ . }} {{ end }}"
-          data-marker="../images/gallery/marker-distrito-3.png"
+          data-distrito="https://reciclalapolitica.cl/kml/distrito3.kml"
           zoom-mapa="10">
           </div>
 
@@ -147,15 +147,15 @@ function clickDistrito(latitude, longitude, zoom, distrito) {
   document.getElementById('map').setAttribute("data-latitude", latitude);
   document.getElementById('map').setAttribute("data-longitude", longitude);
   document.getElementById('map').setAttribute("zoom-mapa", zoom); 
-  document.getElementById('map').setAttribute("data-marker", distrito); 
+  document.getElementById('map').setAttribute("data-distrito", distrito); 
   initialize();
 }
 
 $(document).ready(function(){  
   {{ range .Site.Params.Distrito }}
     $( "#distrito{{ .distritoN }}" ).click(function() {
-        var imgDistrito = "../images/gallery/marker-distrito-{{ .distritoN }}.png";
-        clickDistrito("{{ .latitud }}", "{{ .longitud }}", {{ .zoom }}, imgDistrito);
+        var kmlDistrito = "https://reciclalapolitica.cl/kml/distrito{{ .distritoN }}.kml";
+        clickDistrito("{{ .latitud }}", "{{ .longitud }}", {{ .zoom }}, kmlDistrito);
         activeControl(this,{{ .distritoN }});
     });
   {{ end }}
