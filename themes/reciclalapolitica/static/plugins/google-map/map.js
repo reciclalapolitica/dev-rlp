@@ -314,7 +314,7 @@ function initialize() {
     url: marker_distito,
     map: map,
   });
-  console.log(ctaLayer);
+  console.log(marker_distito);
   
 
 
