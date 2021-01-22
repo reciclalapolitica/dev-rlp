@@ -309,6 +309,7 @@ function initialize() {
   var marker_image = mapMarker;
   var pinIcon = new google.maps.MarkerImage(marker_image, null, null, null, new google.maps.Size(46, 50));
 
+  console.log(mapDistrito);
   const ctaLayer = new google.maps.KmlLayer({
     url: mapDistrito,
     map: map,
