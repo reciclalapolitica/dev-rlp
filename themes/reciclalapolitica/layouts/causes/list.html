@@ -156,7 +156,7 @@ $(document).ready(function(){
   {{ range .Site.Params.Distrito }}
     $( "#distrito{{ .distritoN }}" ).click(function() {
         var imgDistrito = "../images/gallery/marker-distrito-{{ .distritoN }}.png";
-        var kmlDistrito = "https://reciclalapolitica.cl/kml/distrito{{ .distritoN }}.kml";
+        var kmlDistrito = "https://reciclalapolitica.cl/distrito{{ .distritoN }}.kml";
         clickDistrito("{{ .latitud }}", "{{ .longitud }}", {{ .zoom }}, kmlDistrito, imgDistrito);
         activeControl(this,{{ .distritoN }});
     });

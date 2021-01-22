@@ -311,7 +311,7 @@ function initialize() {
   var pinIcon = new google.maps.MarkerImage(marker_image, null, null, null, new google.maps.Size(46, 50));
 
   const ctaLayer = new google.maps.KmlLayer({
-    url: "https://reciclalapolitica.cl/distrito3.kml",
+    url: marker_distito,
     map: map,
   });
   console.log(ctaLayer);
