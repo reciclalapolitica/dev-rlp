@@ -7,7 +7,7 @@ banner:
   button:
     enable : true
     label : "¿De qué se trata?"
-    link : "./blog/decalogo/"
+    link : "decalogo"
 
 ############################# Intro ##################################
 intro:
@@ -128,7 +128,7 @@ cta:
   button:
     enable : true
     label : "Decálogo"
-    link : "./blog/decalogo/"
+    link : "decalogo"
 
 ############################# Latest Blog ###############################
 blog:

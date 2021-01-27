@@ -57,7 +57,7 @@ paginate = 6
     
   [[menu.main]]
   name = "Decálogo"
-  URL = "./blog/decalogo/"
+  URL = "decalogo"
   weight = 2
 
   [[menu.main]]
@@ -89,7 +89,7 @@ paginate = 6
   
   [[menu.footer]]
   name = "Decálogo"
-  URL = "./blog/decalogo/"
+  URL = "decalogo"
   weight = 3
   
   [[menu.footer]]
