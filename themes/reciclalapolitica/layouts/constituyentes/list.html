@@ -1,0 +1,138 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+<section class="section causes">
+
+  <div class="container">
+    <div class="row">
+
+      <div class="col-lg-12 text-center">
+        <div class="section-title">
+          <h2 class="mt-3 content-title">Candidatos Constituyentes que se comprometen a una nueva constitución verde</h2>
+        </div>
+      </div>
+      
+      <div class="google-map col-lg-12 col-md-12">
+
+        <div class="card text-center">
+
+          <!-- Distritos Título -->
+          <div class="card-header">
+            <ul class="nav nav-tabs card-header-tabs">
+              {{ range .Site.Params.Distrito }}
+              <li class="nav-item">
+                <a class="nav-link" id="distrito{{ .distritoN }}">Distrito {{ .distritoN }}</a>
+              </li>
+              {{ end }}
+            </ul>
+          </div>
+
+          <!-- Distritos Título -->
+          {{ range .Site.Params.Distrito }}
+          <div id="distrito{{ .distritoN }}-card" class="card-body my-3 distrito-card" linkURL="{{ .link }}">
+            <h5 class="card-title">Distrito Electoral N°{{ .distritoN }}</h5>
+            <p class="card-text">El distrito se compone de las siguientes comunas: {{ .comunas }}</p>
+            
+
+
+          </div>
+
+          {{ end }}
+          <div class="row px-4">
+
+          {{ range .Site.Params.Candidato}}
+          
+
+            <div class="col-sm-4 my-3 candidato-control candidato-distrito-{{ .distrito }}">
+              <div class="card">
+                <div class="card-body">
+                  <h5 class="card-title">{{ .nombre }}</h5>
+                  <p class="card-text">Candidato a constituyente por el Distrito {{ .distrito }} </p>
+                  <p class="card-text">Lista: {{ .lista }} </p>
+                  <p class="card-text">Sexo: {{ .sexo }} </p>
+                  <p class="card-text">Partido político: {{ .partido }} </p>
+                  <p class="card-text">Escaño reservado: {{ .escano }} </p>
+                  <a href="{{ .redSocial }}" target="_blank" class="btn btn-main rounded">Contactar</a>
+                </div>
+              </div>
+            </div>        
+
+        {{ end }}
+        </div>
+
+
+          <div id="map" style="display: none;" class="mt-3 px-3"
+          data-latitude="{{ with .Site.Params.mapLatitude }} {{ . }} {{ end }}"
+          data-longitude="{{ with .Site.Params.mapLongitude }} {{ . }} {{ end }}"
+          data-distrito="https://reciclalapolitica.cl/3.kml"
+          data-marker="../images/gallery/marker-distrito-3.png"
+          zoom-mapa="10">
+          </div>
+
+          <a href="https://www.bcn.cl/siit/mapoteca/distrito_view_2017?dato=Distrito%20Electoral%20N%C2%B01" target="_blank" class="btn btn-secondary linkBCN">Ver mapa distrito</a>
+
+        </div>
+
+
+          
+
+      </div>
+    </div>
+    {{ template "_internal/pagination.html" . }}
+  </div>
+
+
+</section>
+
+<script src="../plugins/jquery/jquery.js"></script>
+
+<script>
+
+
+$("#distrito3").addClass('active');
+$("#distrito3-card").addClass('activo');
+$(".candidato-distrito-3").addClass('candidato-control-activo');
+var linkurl = $("#distrito3-card").attr("linkURL");
+$(".linkBCN").attr("href",linkurl);
+
+function activeControl(idElemento,distrito) {
+
+  $(".active").removeClass("active");
+  $(".activo").removeClass("activo");
+  $(".candidato-control-activo").removeClass("candidato-control-activo");
+
+  $(idElemento).addClass('active');
+  $("#distrito" + distrito + "-card").addClass('activo');
+  $(".candidato-distrito-" + distrito).addClass('candidato-control-activo');
+
+  var linkurl = $("#distrito" + distrito + "-card").attr("linkURL");
+  $(".linkBCN").attr("href",linkurl);
+
+}
+
+function clickDistrito(latitude, longitude, zoom, kml, distrito) {
+
+  document.getElementById('map').setAttribute("data-latitude", latitude);
+  document.getElementById('map').setAttribute("data-longitude", longitude);
+  document.getElementById('map').setAttribute("zoom-mapa", zoom); 
+  document.getElementById('map').setAttribute("data-distrito", kml); 
+  document.getElementById('map').setAttribute("data-marker", distrito); 
+  initialize();
+}
+
+$(document).ready(function(){  
+  {{ range .Site.Params.Distrito }}
+    $( "#distrito{{ .distritoN }}" ).click(function() {
+        var imgDistrito = "../images/gallery/marker-distrito-{{ .distritoN }}.png";
+        var kmlDistrito = "https://reciclalapolitica.cl/{{ .distritoN }}.kml";
+        clickDistrito("{{ .latitud }}", "{{ .longitud }}", {{ .zoom }}, kmlDistrito, imgDistrito);
+        activeControl(this,{{ .distritoN }});
+    });
+  {{ end }}
+});  
+
+
+</script>
+
+{{ end }}

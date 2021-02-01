@@ -49,11 +49,6 @@ paginate = 6
   name = "Quienes somos"
   URL = "about"
   weight = 1
-  
-  [[menu.main]]
-  name = "Novedades"
-  URL = "blog"
-  weight = 7
     
   [[menu.main]]
   name = "Decálogo"
@@ -63,13 +58,23 @@ paginate = 6
   [[menu.main]]
   name = "Sello Verde"
   URL = "causes"
-  weight = 5
+  weight = 3
+
+  [[menu.main]]
+  name = "Constituyentes"
+  URL = "constituyentes"
+  weight = 4
   
   [[menu.main]]
   name = "Proceso"
   URL = "event"
   weight = 6
-    
+
+  [[menu.main]]
+  name = "Novedades"
+  URL = "blog"
+  weight = 7
+      
   [[menu.main]]
   name = "Contacto"
   URL = "contact"
