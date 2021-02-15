@@ -185,6 +185,22 @@ name = "pinterest"
 link = "#"
 
 [[params.Distrito]]
+distritoN = "1"
+comunas = "Arica , Camarones , General Lagos , Putre"
+latitud = "-33.437"
+longitud = "-70.634"
+zoom = "8"
+link = "https://www.bcn.cl/siit/mapoteca/distrito_view_2017?dato=Distrito%20Electoral%20N%C2%B01"
+
+[[params.Distrito]]
+distritoN = "2"
+comunas = "Alto Hospicio , Camiña , Colchane , Huara , Iquique , Pica , Pozo Almonte"
+latitud = "-33.437"
+longitud = "-70.634"
+zoom = "8"
+link = "https://www.bcn.cl/siit/mapoteca/distrito_view_2017?dato=Distrito%20Electoral%20N%C2%B02"
+
+[[params.Distrito]]
 distritoN = "3"
 comunas = "Antofagasta, Calama, María Elena, Mejillones, Ollagüe, San Pedro de Atacama, Sierra Gorda, Taltal, Tocopilla"
 latitud = "-33.437"
@@ -265,12 +281,36 @@ zoom = "8"
 link = "https://www.bcn.cl/siit/mapoteca/distrito_view_2017?dato=Distrito%20Electoral%20N%C2%B012"
 
 [[params.Distrito]]
+distritoN = "13"
+comunas = "El Bosque , La Cisterna , Lo Espejo , Pedro Aguirre Cerda , San Miguel , San Ramón"
+latitud = "-33.437"
+longitud = "-70.634"
+zoom = "8"
+link = "https://www.bcn.cl/siit/mapoteca/distrito_view_2017?dato=Distrito%20Electoral%20N%C2%B013"
+
+[[params.Distrito]]
 distritoN = "14"
 comunas = "Alhué , Buin , Calera de Tango , Curacaví , El Monte , Isla de Maipo , María Pinto , Melipilla , Padre Hurtado , Paine , Peñaflor , San Bernardo , San Pedro , Talagante"
 latitud = "-33.437"
 longitud = "-70.634"
 zoom = "8"
 link = "https://www.bcn.cl/siit/mapoteca/distrito_view_2017?dato=Distrito%20Electoral%20N%C2%B014"
+
+[[params.Distrito]]
+distritoN = "15"
+comunas = "Codegua , Coínco , Coltauco , Doñihue , Graneros , Machalí , Malloa , Mostazal , Olivar , Quinta de Tilcoco , Rancagua , Rengo , Requínoa"
+latitud = "-33.437"
+longitud = "-70.634"
+zoom = "8"
+link = "https://www.bcn.cl/siit/mapoteca/distrito_view_2017?dato=Distrito%20Electoral%20N%C2%B015"
+
+[[params.Distrito]]
+distritoN = "17"
+comunas = "Constitución , Curepto , Curicó , Empedrado , Hualañé , Licantén , Maule , Molina , Pelarco , Pencahue , Rauco , Río Claro , Romeral , Sagrada Familia , San Clemente , San Rafael , Talca , Teno , Vichuquén"
+latitud = "-33.437"
+longitud = "-70.634"
+zoom = "8"
+link = "https://www.bcn.cl/siit/mapoteca/distrito_view_2017?dato=Distrito%20Electoral%20N%C2%B017"
 
 [[params.Distrito]]
 distritoN = "18"
@@ -305,6 +345,14 @@ zoom = "8"
 link = "https://www.bcn.cl/siit/mapoteca/distrito_view_2017?dato=Distrito%20Electoral%20N%C2%B021"
 
 [[params.Distrito]]
+distritoN = "25"
+comunas = "Fresia , Frutillar , Llanquihue , Los Muermos , Osorno , Puerto Octay , Puerto Varas , Purranque , Puyehue , Río Negro , San Juan de la Costa , San Pablo"
+latitud = "-33.437"
+longitud = "-70.634"
+zoom = "8"
+link = "https://www.bcn.cl/siit/mapoteca/distrito_view_2017?dato=Distrito%20Electoral%20N%C2%B025"
+
+[[params.Distrito]]
 distritoN = "26"
 comunas = "Ancud , Calbuco , Castro , Chaitén , Chonchi , Cochamó , Curaco de Vélez , Dalcahue , Futaleufú , Hualaihué , Maullín , Palena , Puerto Montt , Puqueldón , Queilén , Quellón , Quemchi , Quinchao"
 latitud = "-33.437"
@@ -328,6 +376,8 @@ longitud = "-70.634"
 zoom = "8"
 link = "https://www.bcn.cl/siit/mapoteca/distrito_view_2017?dato=Distrito%20Electoral%20N%C2%B028"
 
+# CANDIDATOS
+
 [[params.Candidato]]
 nombre = "Felipe Lerzundi Rivas"
 distrito = "3"
@@ -335,7 +385,7 @@ lista = "Lista del Apruebo"
 sexo = "Hombre"
 partido = "Partido Demócrata Cristiano (DC)"
 escano = "No"
-redSocial = "https://www.facebook.com/flerzund"
+redSocial = "https://www.facebook.com/FelipeLerzundiConstituyente/"
 
 [[params.Candidato]]
 nombre = "Felipe Roberto Sepúlveda Lepe"
@@ -822,3 +872,246 @@ sexo = "Hombre"
 partido = "Independiente"
 escano = "No"
 redSocial = "https://twitter.com/gdominguez_"
+
+[[params.Candidato]]
+nombre = "Jorge Bruno Abarca Riveros"
+distrito = "1"
+lista = "Lista del Apruebo"
+sexo = "Hombre"
+partido = "Independiente - Partido Liberal (PL)"
+escano = "No"
+redSocial = "https://www.facebook.com/Jorge-Abarca-Riveros-Constituyente-105235494877019/"
+
+[[params.Candidato]]
+nombre = "Fernando Atria Lemaitre"
+distrito = "10"
+lista = "Apruebo Dignidad"
+sexo = "Hombre"
+partido = "Independiente - Revolución Democrática (RD)"
+escano = "No"
+redSocial = "https://twitter.com/fernando_atria"
+
+[[params.Candidato]]
+nombre = "Pablo Amat Trujillo"
+distrito = "11"
+lista = "Partido Ecologista Verde"
+sexo = "Hombre"
+partido = "Partido Ecologista Verde (PEV)"
+escano = "No"
+redSocial = "https://www.facebook.com/pablo.amat"
+
+[[params.Candidato]]
+nombre = "Carolina Paz Pérez Dattari"
+distrito = "11"
+lista = "Apruebo Dignidad"
+sexo = "Mujer"
+partido = "Revolución Democrática (RD)"
+escano = "No"
+redSocial = "https://www.facebook.com/caroperezdattari11"
+
+[[params.Candidato]]
+nombre = "Paola Berlín Razmilic"
+distrito = "11"
+lista = "Lista del Apruebo"
+sexo = "Mujer"
+partido = "Independiente - Ciudadanos (CIU)"
+escano = "No"
+redSocial = "https://www.facebook.com/paolaberlinR"
+
+[[params.Candidato]]
+nombre = "Rodrigo Alfonso Rettig Vargas"
+distrito = "12"
+lista = "Lista del Apruebo"
+sexo = "Hombre"
+partido = "Ciudadanos (CIU)"
+escano = "No"
+redSocial = "https://twitter.com/RodRettig"
+
+[[params.Candidato]]
+nombre = "María Soledad Cisternas Reyes"
+distrito = "12"
+lista = "Independientes por una nueva Constitución"
+sexo = "Mujer"
+partido = "Independiente"
+escano = "No"
+redSocial = "https://twitter.com/MS_Cisternas"
+
+[[params.Candidato]]
+nombre = "Francisca Paz Cabrera Antoine"
+distrito = "13"
+lista = "Lista del Apruebo"
+sexo = "Mujer"
+partido = "Independiente - Partido Progresista (PRO)"
+escano = "No"
+redSocial = "https://www.instagram.com/fran.cabrera.antoine/"
+
+[[params.Candidato]]
+nombre = "Denisse Elizabeth Martel Jorquera"
+distrito = "14"
+lista = "Lista del Apruebo"
+sexo = "Mujer"
+partido = "Independiente - Partido Radical (PR)"
+escano = "No"
+redSocial = "https://www.facebook.com/DenisseMartelConstituyente"
+
+[[params.Candidato]]
+nombre = "César Ortiz Garrido"
+distrito = "15"
+lista = "Partido Ecologista Verde"
+sexo = "Hombre"
+partido = "Partido Ecologista Verde (PEV)"
+escano = "No"
+redSocial = "https://www.facebook.com/cesar.o.orfebre"
+
+[[params.Candidato]]
+nombre = "Gonzalo Andres Prieto Navarrete"
+distrito = "2"
+lista = "Lista del Apruebo"
+sexo = "Hombre"
+partido = "Partido Por la Democracia (PPD)"
+escano = "No"
+redSocial = "https://www.facebook.com/gonzalo.prietonavarrete"
+
+[[params.Candidato]]
+nombre = "Claudia Andrea Pavez Souper"
+distrito = "20"
+lista = "Vamos por Chile"
+sexo = "Mujer"
+partido = "Independiente - Renovación Nacional (RN)"
+escano = "No"
+redSocial = "https://www.facebook.com/claudiapavezccp/"
+
+[[params.Candidato]]
+nombre = "Javier Guerrero Pellerano"
+distrito = "20"
+lista = "Partido Ecologista Verde"
+sexo = "Hombre"
+partido = "Partido Ecologista Verde (PEV)"
+escano = "No"
+redSocial = "https://twitter.com/Eco_GuerreroCl"
+
+[[params.Candidato]]
+nombre = "Javier Edmundo Del Río Richter"
+distrito = "20"
+lista = "Asamblea Popular Constituyente"
+sexo = "Hombre"
+partido = "Independiente"
+escano = "No"
+redSocial = "https://twitter.com/jdelrio70"
+
+[[params.Candidato]]
+nombre = "María Angélica Fuentes Fuentealba"
+distrito = "20"
+lista = "Lista del Apruebo"
+sexo = "Mujer"
+partido = "Partido Por la Democracia (PPD)"
+escano = "No"
+redSocial = "https://www.facebook.com/maria.a.fuentealba.5"
+
+[[params.Candidato]]
+nombre = "Jorge Alejandro Contreras Godoy"
+distrito = "25"
+lista = "Independientes por la Nueva Constitución - Independientes No Neutrales"
+sexo = "Hombre"
+partido = "Independiente"
+escano = "No"
+redSocial = "https://twitter.com/ContrerasD25"
+
+[[params.Candidato]]
+nombre = "Tomas Caleb Laibe Saez"
+distrito = "27"
+lista = "Lista del Apruebo"
+sexo = "Hombre"
+partido = "Partido Socialista (PS)"
+escano = "No"
+redSocial = "https://twitter.com/tomaslaibe"
+
+[[params.Candidato]]
+nombre = "Celia De Las Mercedes Gonzalez Bravo"
+distrito = "3"
+lista = "Lista del Apruebo"
+sexo = "Mujer"
+partido = "Partido Radical (PR)"
+escano = "No"
+redSocial = "https://www.facebook.com/celiaconstitucional/"
+
+[[params.Candidato]]
+nombre = "Matías Gazmuri Kruberg"
+distrito = "6"
+lista = "Apruebo Dignidad"
+sexo = "Hombre"
+partido = "Comunes (COM)"
+escano = "No"
+redSocial = "https://twitter.com/matias_gk"
+
+[[params.Candidato]]
+nombre = "Leonardo Andrés Latorre Melín"
+distrito = "7"
+lista = "Soberanía Ciudadana"
+sexo = "Hombre"
+partido = "Independiente"
+escano = "No"
+redSocial = "https://twitter.com/LeoLatorre"
+
+[[params.Candidato]]
+nombre = "Paula Andrea Gutierrez Huenchuleo"
+distrito = "7"
+lista = "Lista del Apruebo"
+sexo = "Mujer"
+partido = "Partido Socialista (PS)"
+escano = "No"
+redSocial = "https://www.facebook.com/pagutierrezhuenchuleo"
+
+[[params.Candidato]]
+nombre = "Cecilia Echeñique Pascal"
+distrito = "7"
+lista = "Independientes por una Nueva Constitución - Independientes No Neutrales"
+sexo = "Mujer"
+partido = "Independiente"
+escano = "No"
+redSocial = "https://www.facebook.com/cecilia.echenique.52"
+
+[[params.Candidato]]
+nombre = "Rodolfo Cornejo Silva"
+distrito = "7"
+lista = "Independientes por una Nueva Constitución - Independientes No Neutrales"
+sexo = "Hombre"
+partido = "Independiente"
+escano = "No"
+redSocial = "https://twitter.com/guruprakashjio"
+
+[[params.Candidato]]
+nombre = "Esteban Andrés Quiroz González"
+distrito = "8"
+lista = "Independientes y Movimientos Sociales del Apruebo"
+sexo = "Hombre"
+partido = "Independiente"
+escano = "No"
+redSocial = "https://twitter.com/EstebanQuirozCL"
+
+[[params.Candidato]]
+nombre = "Vicente Orellana Hidalgo"
+distrito = "9"
+lista = "Partido Ecologista Verde"
+sexo = "Hombre"
+partido = "Partido Ecologista Verde (PEV)"
+escano = "No"
+redSocial = "https://twitter.com/p_conscienteD9"
+
+[[params.Candidato]]
+nombre = "Jessica del Carmen Cayupi Llancaleo"
+distrito = "9"
+lista = "Movimientos Sociales Plurinacionales e Independientes"
+sexo = "Mujer"
+partido = "Independiente"
+escano = "No"
+redSocial = "https://www.facebook.com/jessikita.cayupi"
+
+[[params.Candidato]]
+nombre = "Rodrigo Antonio Poblete Reyes"
+distrito = "17"
+lista = "Lista del Apruebo"
+sexo = "Hombre"
+partido = "Independiente - Partido por la Democracia (PPD)"
+escano = "No"
+redSocial = "https://www.facebook.com/pobleteconstituyente"
