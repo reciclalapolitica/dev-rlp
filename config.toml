@@ -1115,3 +1115,21 @@ sexo = "Hombre"
 partido = "Independiente - Partido por la Democracia (PPD)"
 escano = "No"
 redSocial = "https://www.facebook.com/pobleteconstituyente"
+
+[[params.Candidato]]
+nombre = "Romy Nathalie Bernal Díaz"
+distrito = "17"
+lista = "Apruebo Dignidad"
+sexo = "Mujer"
+partido = "Independiente - Partido Comunista (PC)"
+escano = "No"
+redSocial = "https://interactivo.latercera.com/candidatos-constituyentes/distrito-17/romy-nathalie-bernal-diaz/"
+
+[[params.Candidato]]
+nombre = "Claudia Adriana Valenzuela Torres"
+distrito = "5"
+lista = "Partido Ecologista Verde"
+sexo = "Mujer"
+partido = "Partido Ecologista Verde (PEV)"
+escano = "No"
+redSocial = "https://interactivo.latercera.com/candidatos-constituyentes/distrito-5/claudia-adriana-valenzuela-torres/"
