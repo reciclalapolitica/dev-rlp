@@ -1123,7 +1123,7 @@ lista = "Apruebo Dignidad"
 sexo = "Mujer"
 partido = "Independiente - Partido Comunista (PC)"
 escano = "No"
-redSocial = "https://interactivo.latercera.com/candidatos-constituyentes/distrito-17/romy-nathalie-bernal-diaz/"
+redSocial = "https://www.concienciaverde.cl/"
 
 [[params.Candidato]]
 nombre = "Claudia Adriana Valenzuela Torres"
