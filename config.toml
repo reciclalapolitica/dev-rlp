@@ -754,7 +754,7 @@ lista = "Independientes de Ñuble por la Nueva Constitución - Independientes No
 sexo = "Mujer"
 partido = "Independiente"
 escano = "No"
-redSocial = "https://www.facebook.com/caritosepu"
+redSocial = "https://www.instagram.com/distrito19consciente/"
 
 [[params.Candidato]]
 nombre = "Ramón Agustín Solá Fosalba"
@@ -1133,3 +1133,12 @@ sexo = "Mujer"
 partido = "Partido Ecologista Verde (PEV)"
 escano = "No"
 redSocial = "https://interactivo.latercera.com/candidatos-constituyentes/distrito-5/claudia-adriana-valenzuela-torres/"
+
+[[params.Candidato]]
+nombre = "Carolina Luisa Torrejón Pérez"
+distrito = "7"
+lista = "Independientes por una Nueva Constitución"
+sexo = "Mujer"
+partido = "Independiente"
+escano = "No"
+redSocial = "https://www.instagram.com/carotorrejonp/"
