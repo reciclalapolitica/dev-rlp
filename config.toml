@@ -58,27 +58,27 @@ paginate = 6
   [[menu.main]]
   name = "Sello Verde"
   URL = "causes"
-  weight = 3
+  weight = 6
 
   [[menu.main]]
-  name = "Constituyentes"
+  name = "Candidatos Inscritos"
   URL = "constituyentes"
-  weight = 4
+  weight = 3
   
   [[menu.main]]
   name = "Proceso"
   URL = "event"
-  weight = 6
+  weight = 5
 
   [[menu.main]]
   name = "Novedades"
   URL = "blog"
-  weight = 7
+  weight = 4
       
   [[menu.main]]
   name = "Contacto"
   URL = "contact"
-  weight = 8
+  weight = 7
 
   ################# footer menu ##################
 
@@ -112,7 +112,7 @@ email = "reciclalapolitica@gmail.com"
 location = "Plaza Baquedano, Providencia, Región Metropolitana"
 copyright = "&copy; 2020 [Recicla la Política](#)"
 # Meta data
-description = "Recicla la Política - Un pacto verde para enfrentar la crisis socioecológica, climática y sanitaria."
+description = "Recicla la Política - Un pacto verde para enfrentar la crisis socioecológica, climática y sanitaria"
 author = "Recicla la Política"
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyDcYmkpfUJlz82RUknm_QR07ZBtmATaViE&libraries=places"
@@ -1142,3 +1142,138 @@ sexo = "Mujer"
 partido = "Independiente"
 escano = "No"
 redSocial = "https://www.instagram.com/carotorrejonp/"
+
+[[params.Candidato]]
+nombre = "Edwin René Briceño Cobb"
+distrito = "1"
+lista = "Independientes por una Nueva Constitución"
+sexo = "Hombre"
+partido = "Independientes No Neutrales"
+escano = "No"
+redSocial = "https://twitter.com/edwin_briceno"
+
+[[params.Candidato]]
+nombre = "Marcela Alexandra Araya Sepulveda"
+distrito = "4"
+lista = "Lista del Apruebo"
+sexo = "Mujer"
+partido = "Partido Socialista (PS)"
+escano = "No"
+redSocial = "https://twitter.com/marcearayase"
+
+[[params.Candidato]]
+nombre = "Jorge Omar Naveas Bravo"
+distrito = "5"
+lista = "Apruebo Dignidad"
+sexo = "Hombre"
+partido = "Confusam"
+escano = "No"
+redSocial = "https://twitter.com/JorgeNaveas"
+
+[[params.Candidato]]
+nombre = "Jocelyn Durán Huaiquin"
+distrito = "8"
+lista = "Independientes y Movimientos Sociales del Apruebo"
+sexo = "Mujer"
+partido = "Independientes No Neutrales"
+escano = "No"
+redSocial = "https://twitter.com/Jocelyn_kdh"
+
+[[params.Candidato]]
+nombre = "Iván Silva González"
+distrito = "9"
+lista = "Independientes por una Nueva Constitución"
+sexo = "Hombre"
+partido = "Independientes No Neutrales"
+escano = "No"
+redSocial = "https://www.instagram.com/ivansilvad9/"
+
+[[params.Candidato]]
+nombre = "Nicole Jorquera Briones"
+distrito = "9"
+lista = "Partido Ecologista Verde"
+sexo = "Mujer"
+partido = "Partido Ecologista Verde (PEV)"
+escano = "No"
+redSocial = "https://twitter.com/NicoleJorquera5"
+
+[[params.Candidato]]
+nombre = "Jorge Marcos Baradit Morales"
+distrito = "10"
+lista = "Lista del Apruebo"
+sexo = "Hombre"
+partido = "Independiente"
+escano = "No"
+redSocial = "https://twitter.com/baradit"
+
+[[params.Candidato]]
+nombre = "Laura Albornoz Pollmann"
+distrito = "10"
+lista = "Lista del Apruebo"
+sexo = "Mujer"
+partido = "Partido Demócrata Cristiano (DC)"
+escano = "No"
+redSocial = "https://twitter.com/lauralbornoz"
+
+[[params.Candidato]]
+nombre = "Carola Fredes Tolorza"
+distrito = "11"
+lista = "Independientes por la Nueva Constitución"
+sexo = "Mujer"
+partido = "Independientes No Neutrales"
+escano = "No"
+redSocial = "https://twitter.com/CarolaFredesD11"
+
+[[params.Candidato]]
+nombre = "Diego Mardones Pérez"
+distrito = "11"
+lista = "Apruebo Dignidad"
+sexo = "Hombre"
+partido = "Independiente"
+escano = "No"
+redSocial = "https://twitter.com/dmardones67"
+
+[[params.Candidato]]
+nombre = "Rafael Sotomayor Narbona"
+distrito = "12"
+lista = "La Lista del Pueblo"
+sexo = "Hombre"
+partido = "Independiente"
+escano = "No"
+redSocial = "https://rafaelsotomayor.cl/"
+
+[[params.Candidato]]
+nombre = "Paz Denis Quevedo Paredes"
+distrito = "21"
+lista = "Biobío sin partidos"
+sexo = "Mujer"
+partido = "Independiente"
+escano = "No"
+redSocial = "https://www.facebook.com/pazquevedoconstituyente"
+
+[[params.Candidato]]
+nombre = "Aurora Genoveva Delgado Vergara"
+distrito = "24"
+lista = "Apruebo Dignidad"
+sexo = "Mujer"
+partido = "Independiente"
+escano = "No"
+redSocial = "http://auroradelgado.cl/"
+
+[[params.Candidato]]
+nombre = "Claudio Alejandro Faundez Becerra"
+distrito = "24"
+lista = "Independientes por la Nueva Constitución"
+sexo = "Hombre"
+partido = "Independientes No Neutrales"
+escano = "No"
+redSocial = "https://twitter.com/cfaundez"
+
+[[params.Candidato]]
+nombre = "Ximena Sabat Acleh"
+distrito = "24"
+lista = "Independientes por la Nueva Constitución"
+sexo = "Mujer"
+partido = "Independientes No Neutrales"
+escano = "No"
+redSocial = "https://twitter.com/sabat_ximena"

@@ -59,6 +59,12 @@
 {{ end }}
 <!-- /intro -->
 
+<!-- call to action -->
+{{ if .Site.Data.homepage.cta.enable }}
+{{ partial "cta.html" . }}
+{{ end }}
+<!-- /call to action -->
+
 <!-- video -->
 <section class="section video">
   <div class="container">
@@ -241,11 +247,7 @@
 {{ end }}
 <!-- causes -->
 
-<!-- call to action -->
-{{ if .Site.Data.homepage.cta.enable }}
-{{ partial "cta.html" . }}
-{{ end }}
-<!-- /call to action -->
+
 
 <!-- blog -->
 {{ if .Site.Data.homepage.blog.enable }}

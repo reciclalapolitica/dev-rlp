@@ -1,12 +1,12 @@
 ################################ Banner ##############################
 banner:
   enable : true
-  subtitle : "El acuerdo para una nueva constitución verde."
+  subtitle : "El acuerdo para una nueva constitución verde"
   title : "Recicla la política"
-  content : "Un pacto verde para enfrentar la crisis socioecológica, climática y sanitaria."
+  content : "Un pacto verde para enfrentar la crisis socioecológica, climática y sanitaria"
   button:
     enable : true
-    label : "¿De qué se trata?"
+    label : "Decálogo del Constituyente Verde"
     link : "decalogo"
 
 ############################# Intro ##################################
@@ -118,17 +118,17 @@ causes:
   enable : true
   subtitle : "Descargas"
   title : "Contenido para el constituyente verde"
-  content : "Se parte del sello verde. Descarga los contenidos de recicla la política."
+  content : "Se parte del sello verde. Descarga los contenidos de recicla la política"
   # causes item comes from "content/event" folder
 
 ######################## call to action ###################################
 cta:
   enable : true
-  title : "¡Revisa el decálogo del constituyente verde!"
+  title : "¡Revisa los candidatos a constituyentes inscritos!"
   button:
     enable : true
-    label : "Decálogo"
-    link : "decalogo"
+    label : "Candidatos Inscritos"
+    link : "constituyentes"
 
 ############################# Latest Blog ###############################
 blog:
