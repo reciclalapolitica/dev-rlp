@@ -345,6 +345,14 @@ zoom = "8"
 link = "https://www.bcn.cl/siit/mapoteca/distrito_view_2017?dato=Distrito%20Electoral%20N%C2%B021"
 
 [[params.Distrito]]
+distritoN = "24"
+comunas = "Corral , Futrono , Lago Ranco , Lanco , La Unión , Los Lagos , Máfil , Mariquina , Paillaco , Panguipulli , Río Bueno , Valdivia"
+latitud = "-33.437"
+longitud = "-70.634"
+zoom = "8"
+link = "https://www.bcn.cl/siit/mapoteca/distrito_view_2017?dato=Distrito%20Electoral%20N%C2%B024"
+
+[[params.Distrito]]
 distritoN = "25"
 comunas = "Fresia , Frutillar , Llanquihue , Los Muermos , Osorno , Puerto Octay , Puerto Varas , Purranque , Puyehue , Río Negro , San Juan de la Costa , San Pablo"
 latitud = "-33.437"
