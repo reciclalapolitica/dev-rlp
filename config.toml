@@ -345,6 +345,14 @@ zoom = "8"
 link = "https://www.bcn.cl/siit/mapoteca/distrito_view_2017?dato=Distrito%20Electoral%20N%C2%B021"
 
 [[params.Distrito]]
+distritoN = "22"
+comunas = "Angol , Collipulli , Curacautín , Ercilla , Galvarino , Lautaro , Lonquimay , Los Sauces , Lumaco , Melipeuco , Perquenco , Purén , Renaico , Traiguén , Victoria , Vilcún"
+latitud = "-33.437"
+longitud = "-70.634"
+zoom = "8"
+link = "https://www.bcn.cl/siit/mapoteca/distrito_view_2017?dato=Distrito%20Electoral%20N%C2%B022"
+
+[[params.Distrito]]
 distritoN = "24"
 comunas = "Corral , Futrono , Lago Ranco , Lanco , La Unión , Los Lagos , Máfil , Mariquina , Paillaco , Panguipulli , Río Bueno , Valdivia"
 latitud = "-33.437"
@@ -1285,3 +1293,21 @@ sexo = "Mujer"
 partido = "Independientes No Neutrales"
 escano = "No"
 redSocial = "https://twitter.com/sabat_ximena"
+
+[[params.Candidato]]
+nombre = "Sofia Del Carmen Painiqueo Tragnolao"
+distrito = "22"
+lista = "Lista del Apruebo"
+sexo = "Mujer"
+partido = "Independiente"
+escano = "No"
+redSocial = "https://interactivo.latercera.com/candidatos-constituyentes/distrito-22/sofia-del-carmen-painiqueo-tragnolao/"
+
+[[params.Candidato]]
+nombre = "Katherina Elisabeth Hidalgo Campos"
+distrito = "22"
+lista = "Lista del Apruebo"
+sexo = "Mujer"
+partido = "Independiente"
+escano = "No"
+redSocial = "https://www.facebook.com/katherina.h.campos"
